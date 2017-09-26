@@ -26,12 +26,20 @@ version:          2.1.0
 github:
   repo:           https://github.com/poole/hyde
 
+defaults:
+  - scope:
+      path:       "public/gallery/images"
+    values:
+      gallery_image:      true
 
-blog:
-  url:            /blog
+  - scope:
+      path:       "public/gallery/images"
+    values:
+      gallery_thumbnail:      true
 
-kontakt:
-  url:            /kontakt
-
-akce:
-  url:            /akce
+urls:
+  blog:           /blog
+  contact:        /kontakt
+  events:         /akce
+  people:         /lide
+  gallery:        /galerie

@@ -1,0 +1,20 @@
+---
+layout: default
+title: Galerie
+---
+
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="{{ site.baseurl }}/public/js/lightbox.js"></script>
+
+{% assign image_files = site.static_files | where: "gallery_image", true %}
+<div class="image-row">
+  <div class="image-set">
+  {% for myimage in image_files %}
+    <a href="{{myimage.path}}" data-lightbox="amrita">
+      <div style="display: inline-block; width: 156px; text-align: center;">
+      <img style="display: inline;" src="{{ myimage.path | replace: 'images/','thumbnails/'}}"></img>
+    </div>
+    </a>
+  {% endfor %}
+</div>
+</div>

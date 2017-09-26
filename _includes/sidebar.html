@@ -12,11 +12,15 @@
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">O nás</a>
 
-      <a class="sidebar-nav-item{% if page.url == site.events.url %} active{% endif %}" href="{{ site.akce.url }}">Akce</a>
+      <a class="sidebar-nav-item{% if page.url == site.urls.events %} active{% endif %}" href="{{ site.urls.events }}">Akce</a>
+
+      <a class="sidebar-nav-item{% if page.url == site.urls.people %} active{% endif %}" href="{{ site.urls.people }}">Lidé</a>
+
+      <a class="sidebar-nav-item{% if page.url == site.urls.gallery %} active{% endif %}" href="{{ site.urls.gallery }}">Galerie</a>
 <!--
       <a class="sidebar-nav-item{% if page.url == site.blog.url %} active{% endif %}" href="{{ site.blog.url }}">Blog</a> -->
 
-      <a class="sidebar-nav-item{% if page.url == site.blog.url %} active{% endif %}" href="{{ site.kontakt.url }}">Kontakt</a>
+      <a class="sidebar-nav-item{% if page.url == site.urls.contact %} active{% endif %}" href="{{ site.urls.contact }}">Kontakt</a>
 
       <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav> -->
