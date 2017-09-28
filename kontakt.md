@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-## Kontakt
+# Kontakt
 
 <pre>
 Amrita z.s.
