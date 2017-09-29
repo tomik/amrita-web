@@ -20,7 +20,9 @@ Pořádáme víkendové a týdenní pobyty zaměřené na předchozí témata, o
 * dovolujeme si prožívat své emoce
 * odlehčujeme stravu a očišťujeme fyzické tělo
 * pobýváme v tichu
-* sdílíme a navzájem se podporujeme
+* meditujeme
+* sdílíme své zážitky a životní zkušenosti
+* navzájem se podporujeme
 
 ## Prostor
 
