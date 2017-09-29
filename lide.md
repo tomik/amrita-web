@@ -24,18 +24,19 @@ title: Lidé
 ### Tomáš
 
 <pre>
-  V kapse batohu plyšový ježek
-  a po večeři povinný zákusek.
+S lopatou nováček, dříve s počítačem i spával,
+do vyšších otáček pouští ho čokoláda,
+ale jen ta hutná, hořká,
+na tu si pak s chutí počká.
 
-  Jednou týdně do Prahy a zpátky
-  a ve vlaku pak skládá k sobě řádky.
+K ránu ho nejlépe probudí studená sprcha,
+drobeček dítěte z něj ještě nevyprchal.
 
-  K ránu ho nejlépe probudí studená sprcha,
-  drobeček dítěte z něj ještě nevyprchal.
-
-  S lopatou nováček, dříve s počítačem i spával,
-  do vyšších otáček pouští ho čokoláda,
-  ale jen ta hutná, hořká, na tu si pak s chutí počká.
+Jednou týdně do Prahy a zpátky
+a ve vlaku pak skládá k sobě řádky,
+pro radost si chodí do zahrádky,
+kde boří ruce do vlhké hlíny
+a pak mu přicházejí rýmy.
 </pre>
 
 ### David
