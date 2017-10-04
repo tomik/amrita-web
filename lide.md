@@ -102,5 +102,5 @@ Skoro jak pránik, jede na tekuté stravě,
 je pěkný cvalík, tři chlapi by ho nezdvihli.
 Tmavý bronz zdobí ho celý rok
 a není lehké držet s ním krok,
-stromy se kolem cesty jenom mihli ...
+stromy se kolem cesty jenom mihly ...
 </pre>
