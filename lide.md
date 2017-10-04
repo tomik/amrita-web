@@ -57,3 +57,50 @@ a pak mu přicházejí rýmy.
   Děkujeme.
   Rádo se stalo ...
 </pre>
+
+### Pavlínka
+
+<pre>
+Dvě trička, mikina a ještě svetr
+a vlasy dlouhé téměř metr.
+Vlní se, kroutí a točí v lokny,
+kdekdo by pro ně čekal pod okny.
+Ona si zatím s knihou hoví
+a hříbky moudrosti v řádcích loví.
+Arašídy ji nejspíš neosloví,
+zašklebí se a neodpoví.
+Zato již zná tajemství tiramisu,
+jezdí k nám zatím bez rozpisu,
+čeká až přibude ji Bc k podpisu.
+</pre>
+
+### Petr
+
+<pre>
+Je před pátou a slunko ještě spí,
+když v maringotce se světla rozsvítí.
+Den je třeba začít s kázní,
+studánka čeká s ledovou lázní.
+Pak ještě čaj a cigareta
+dotvoří ranní meditaci,
+z rádia nohavica a kometa
+a je čas začít další štaci.
+A večer, po celodenní práci,
+v pozici starého kmeta,
+vypustí pár mouder do světa
+a navrátí se na matraci.
+</pre>
+
+### Vilík
+
+<pre>
+Je s námi krátce, ale zatím se mu daří.
+Pracuje ať mrzne nebo slunce praží.
+Řeší nákupy, tahá trámy, vozí cihly,
+to vše zvládá hravě.
+Skoro jak pránik, jede na tekuté stravě,
+je pěkný cvalík, tři chlapi by ho nezdvihli.
+Tmavý bronz zdobí ho celý rok
+a není lehké držet s ním krok,
+stromy se kolem cesty jenom mihli ...
+</pre>
