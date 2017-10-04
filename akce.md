@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Akce
 ---
 
 Momentálně pro Vás připravujeme prostor pro setkávání, víkendové a týdenní pobyty v místě sídla spolku. Pracujeme na tom, abychom první návštěvníky uvítali již na jaře 2018.
