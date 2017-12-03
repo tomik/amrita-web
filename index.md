@@ -5,7 +5,7 @@ title: O nás
 
 
 <p class="message">
- Prostor otevíráme symbolicky na jarní rovnodennost dne 20.3.2018. První víkendové setkání se uskuteční 23.-25.3.2018. Detaily a možnost přihlášky budou brzy zde na stránkách.
+ Vážení přátelé, práce zde v Nebeské Rybné nám pěkně pokračují. Prostor otevíráme symbolicky na jarní rovnodennost dne 20.3.2018. První víkendové setkání se zde uskuteční 23.-25.3.2018. Detaily a možnost přihlášky budou brzy zde na stránkách.
 </p>
 
 ## Vize
