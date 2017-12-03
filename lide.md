@@ -58,22 +58,6 @@ a pak mu přicházejí rýmy.
   Rádo se stalo ...
 </pre>
 
-### Pavlínka
-
-<pre>
-Dvě trička, mikina a ještě svetr
-a vlasy dlouhé téměř metr.
-Vlní se, kroutí a točí v lokny,
-kdekdo by pro ně čekal pod okny.
-Ona si zatím s knihou hoví
-a hříbky moudrosti v řádcích loví.
-Arašídy ji nejspíš neosloví,
-zašklebí se a neodpoví.
-Zato již zná tajemství tiramisu,
-jezdí k nám zatím bez rozpisu,
-čeká až přibude ji Bc k podpisu.
-</pre>
-
 ### Petr
 
 <pre>
