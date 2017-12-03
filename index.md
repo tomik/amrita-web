@@ -3,6 +3,11 @@ layout: default
 title: O nás
 ---
 
+
+<p class="message">
+ Prostor otevíráme symbolicky na jarní rovnodennost dne 20.3.2018. První víkendové setkání se uskuteční 23.-25.3.2018. Detaily a možnost přihlášky budou brzy zde na stránkách.
+</p>
+
 ## Vize
 
 Žijeme a tvoříme v Orlických horách. Jsou nám blízká následující témata:

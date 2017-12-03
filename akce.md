@@ -3,11 +3,7 @@ layout: page
 title: Akce
 ---
 
-Momentálně pro Vás připravujeme prostor pro setkávání, víkendové a týdenní pobyty v místě sídla spolku. Pracujeme na tom, abychom první návštěvníky uvítali již na jaře 2018.
-
-<p class="message">
-  Pokud hledáte akce Roberta Chlebika anebo pránické pobyty s Henrim Montfortem, tak prosím navštivte stránky <a href="http://eipei.eu">eipei</a>. Robert Chlebik již se spolkem Amrita nespolupracuje.
-</p>
+Momentálně pro Vás připravujeme prostor pro setkávání, víkendové a týdenní pobyty zde v Nebeské Rybné v Orlických horách. Prostor otevíráme symbolicky na jarní rovnodennost dne 20.3.2018. První víkendové setkání se uskuteční 23.-25.3.2018. Detaily a možnost přihlášky budou brzy zde na stránkách.
 
 ## Výpomoc
 
