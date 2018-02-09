@@ -3,13 +3,10 @@ layout: default
 title: O nás
 ---
 
-
 <p class="message">
- Přejeme Vám krásné prožití Vánočních svátků a všechno nejlepší do roku 2018. Těíšíme se, že se s některými s Vás setkáme zde v Nebeské Rybné
-</p>
+  Přátelé,
 
-<p class="message">
-  Prostor otevíráme symbolicky na jarní rovnodennost dne 20.3.2018. První víkendové setkání se zde uskuteční 23.-25.3.2018. Detaily a možnost přihlášky budou brzy zde na stránkách.
+  dokončujeme stavební úpravy a za pomoci šikovných řemeslníků se nám to tu pomalu završuje. V sekci <a href="/akce">akce</a> je již možno se hlásit na první pobyty.
 </p>
 
 ## Vize
