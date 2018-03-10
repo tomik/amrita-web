@@ -23,9 +23,11 @@ Vlastní doprava přímo na <a href="/kontakt">místo</a>. V případě větší
 
 Poslední týden před otevřením prostoru bude věnován hlavně úklidu po úpravách chalupy. Pokud byste měli čas a chuť, tak uvítáme pomoc. Napište nám e-mail.
 
-## Velikonoční víkend (30.3.2017 - 2.4.2017)
+## Společné zpívání s Mantrovníky a Velikonoční víkend (29.3.2017 - 2.4.2017)
 
-Páteční večer zahájíme koncertem Davida Breitera z uskupení Mantrovníci. Je možno zůstat až do velikonočního pondělí.
+Páteční odpoledne zahájíme společným zpíváním s <a href="http://www.gajatri.net">Mantrovníky</a> v 15:00.
+
+Dveře budou otevřené od čtvrtka až do Velikonočního pondělí. Opět je možné přijíždět a odjíždět kdykoliv.
 
 Co se programu, stravy, ubytování, finančního příspěvku a dopravy týče, tak platí to samé jako pro akci otevírání prostoru výše.
 
