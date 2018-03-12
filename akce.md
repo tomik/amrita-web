@@ -23,7 +23,7 @@ Vlastní doprava přímo na <a href="/kontakt">místo</a>. V případě větší
 
 Poslední týden před otevřením prostoru bude věnován hlavně úklidu po úpravách chalupy. Pokud byste měli čas a chuť, tak uvítáme pomoc. Napište nám e-mail.
 
-## Společné zpívání s Mantrovníky a Velikonoční víkend (29.3.2017 - 2.4.2017)
+## Společné zpívání s Mantrovníky a Velikonoční víkend (29.3.2018 - 2.4.2018)
 
 Páteční odpoledne zahájíme společným zpíváním s <a href="http://www.gajatri.net">Mantrovníky</a> v 15:00.
 
@@ -32,3 +32,23 @@ Dveře budou otevřené od čtvrtka až do Velikonočního pondělí. Opět je m
 Co se programu, stravy, ubytování, finančního příspěvku a dopravy týče, tak platí to samé jako pro akci otevírání prostoru výše.
 
 Přihlášky <a href="/kontakt">emailem</a>.
+
+## Jógový víkend s Láďou Lebedou (13. 4. 2018 - 15. 4. 2018)
+
+Zveme vás na víkendovou akci, kterou u nás pořádá <a href="http://jogaladalebeda.cz">Láďa Lebeda</a>. Láďa vás provede víkendem plným cvičení jógových asán, meditace, seznámením s filosofií jógy, společného makrobioticky inspirovaného vaření a procházek po okolí.
+
+Začátek v pátek 13. 4. 2017 v 18:00. Konec v neděli 15. 4. 2017 v 17:00.
+
+Cena za program a stravu je 2500 korun za osobu. Příspěvek na ubytování je dobrovolný.
+
+Přihlášky přímo u Láďy na e-mailu ladalebeda@seznam.cz nebo telefonicky na 723 309 342.
+
+## Jógový víkend s Láďou Lebedou (18. 5. 2018 - 20. 5. 2018)
+
+Zveme vás na víkendovou akci, kterou u nás pořádá <a href="http://jogaladalebeda.cz">Láďa Lebeda</a>. Láďa vás provede víkendem plným cvičení jógových asán, meditace, seznámením s filosofií jógy, společného makrobioticky inspirovaného vaření a procházek po okolí.
+
+Začátek v pátek 18. 5. 2017 v 18:00. Konec v neděli 20. 5. 2017 v 17:00.
+
+Cena za program a stravu je 2500 korun za osobu. Příspěvek na ubytování je dobrovolný.
+
+Přihlášky přímo u Láďy na e-mailu ladalebeda@seznam.cz nebo telefonicky na 723 309 342.
