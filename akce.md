@@ -3,6 +3,8 @@ layout: page
 title: Akce
 ---
 
+<!--
+
 ## Otevírání prostoru (20.3.2018 - 25.3.2018)
 
 Prostor se oficiálně otevírá na jarní rovnodennost - tedy v úterý 20. 3. 2018. Návštěvy vítáme až do neděle 25. 3. 2018. Je možné volně přijíždět i odjíždět v průběhu této doby.
@@ -43,6 +45,8 @@ Cena za program a stravu je 2500 korun za osobu. Příspěvek na ubytování je 
 
 Přihlášky přímo u Láďy na e-mailu ladalebeda@seznam.cz nebo telefonicky na 723 309 342.
 
+-->
+
 ## Jógový víkend s Láďou Lebedou (18. 5. 2018 - 20. 5. 2018)
 
 Zveme vás na víkendovou akci, kterou u nás pořádá <a href="http://jogaladalebeda.cz">Láďa Lebeda</a>. Láďa vás provede víkendem plným cvičení jógových asán, meditace, seznámením s filosofií jógy, společného makrobioticky inspirovaného vaření a procházek po okolí.
@@ -52,3 +56,72 @@ Začátek v pátek 18. 5. 2017 v 18:00. Konec v neděli 20. 5. 2017 v 17:00.
 Cena za program a stravu je 2500 korun za osobu. Příspěvek na ubytování je dobrovolný.
 
 Přihlášky přímo u Láďy na e-mailu ladalebeda@seznam.cz nebo telefonicky na 723 309 342.
+
+## Letní jógový víkend s Petrou a Janou (22. 6. 2018 - 24. 6. 2018)
+
+Zveme vás na víkendovou akci, kterou u nás pořádá Petra Pejcharová s Janou Špičákovou ze studia <a href="http://jogahk.cz">Jóga HK</a>:
+
+Jóga jako cesta k tělu i emocím aneb ... se sebou mě baví svět.
+
+Jak to udělat, aby nás se sebou bavil život.
+Jak si udržet rovnováhu v každodenním životě nejen pomocí jógy.
+Jak ráno vstávat s tím, že se těšíme na nový den.
+Jak se přestat brát tak vážně a kouknout se na sebe z nadhledu.
+
+Pojeďte si s námi pro nové zážitky plné radosti a humoru na pohádkové místo na konci světa.
+
+Cena za program je 2000 korun. Příspěvek na prostor je dobrovolný. Přihlášky a další informace na info@joga.hk anebo na tel. 775388131.
+
+
+## Týdenní dětský pobyt (7. 7. 2018 - 14. 7. 2018)
+
+Celý týden si budeme s dětmi hrát, chodit do přírody a navzájem se od sebe učit. Program není pevně dán. Akce je určená pro děti od 6 - 12 let. Vzhledem ke komornímu charakteru akce budeme přednostně přijímat děti přátel a z blízkého okolí.
+
+Příspěvek je dobrovolný. Zájemci pište na amrita@amrita.cz.
+
+## Tantrický víkend s Janou Tillovou (27. 7. 2018 - 29. 7. 2018)
+
+Zveme vás na prožitkový víkend, kdy se budeme s Janou Tillovou věnovat sebeobjevovávání, dovolování si, uvolňování se a hraní si. Budeme vědomě zkoumat jak reagujeme na různé životní situace. Všimneme si, jak nás některé podněty vytáčí a jiné nás zase uspokojují a budeme zjišťovat proč to tak je. Budeme rozpouštět zaběhané vzorce chování, vnímat naše těla a nechávat naše emoce volně plynout. A třeba i uvidíme jak málo nám stačí ke stavu spokojenosti a prosté radosti ze života.
+
+Program bude intuitivní a bude se odvíjet od skupiny a od toho, co bude v danou chvíli potřeba. Praktická cvičeníčka budeme střídat se skupinovým sdílením a společnými meditacemi. To vše v příjemném a chráněném prostředí uprostřed krásné přírody.
+
+Janě Tantrický přístup život velmi pozitivně ovlivnil a ráda předá své zkušenosti dále.
+
+Strava ideálně odlehčená z vlastních zásob. Možnost společného vaření. Základní suroviny zde máme.
+
+V pátek budeme začínat v 18 hodin, ale příjezd je možný kdykoliv během dne.
+
+Cena za program i využívání prostoru je dobrovolná. Přihlášky na amrita@amrita.cz.
+
+## Týdenní dětský pobyt (4. 8. 2018 - 11. 8. 2018)
+
+Celý týden si budeme s dětmi hrát, chodit do přírody a navzájem se od sebe učit. Program není pevně dán. Akce je určená pro děti od 6 - 12 let. Vzhledem ke komornímu charakteru akce budeme přednostně přijímat děti přátel a z blízkého okolí.
+
+Příspěvek je dobrovolný. Zájemci pište na amrita@amrita.cz.
+
+## Jógový relaxační víkend s Marcelou Cackovou - Jóga a ájurvéda v Neberybce (17. 8. 2018 - 19. 8. 2018)
+
+Zveme vás na víkendovou akci, kterou u nás pořádá Marcelka Cacková z Lanškrounského studia <a href="http://om-shakti.cz">Om shakti</a>:
+
+Příjezd v pátek v 17 hodin, odjezd v neděli také v 17 hodin.
+
+Krásné okolí, jistě se půjdeme podívat na nedaleký soutok řeky Říčky a Zdobnice.
+
+Strava zajištěna od soboty, proto si přivezte něco
+do společného pátečního bufetu. Doporučujeme s sebou pohodlné oblečení, jógamatku a deku na cvičení a relaxaci. Co není doporučeno - špatná nálada, alkohol a cigarety.
+
+Cena 1500 korun za program a stravu. Příspěvek na prostor je dobrovolný. Přihláška a platba předem přímo u Marcelky na tel. 777553698 anebo na macinacackova@seznam.cz.
+
+## Tantrický víkend s Janou Tillovou (24. 8. 2018 - 26. 8. 2018)
+
+Zveme vás na prožitkový víkend, kdy se budeme s Janou Tillovou věnovat sebeobjevovávání, dovolování si, uvolňování se a hraní si. Budeme vědomě zkoumat jak reagujeme na různé životní situace. Všimneme si, jak nás některé podněty vytáčí a jiné nás zase uspokojují a budeme zjišťovat proč to tak je. Budeme rozpouštět zaběhané vzorce chování, vnímat naše těla a nechávat naše emoce volně plynout. A třeba i uvidíme jak málo nám stačí ke stavu spokojenosti a prosté radosti ze života.
+
+Program bude intuitivní a bude se odvíjet od skupiny a od toho, co bude v danou chvíli potřeba. Praktická cvičeníčka budeme střídat se skupinovým sdílením a společnými meditacemi. To vše v příjemném a chráněném prostředí uprostřed krásné přírody.
+
+Janě Tantrický přístup život velmi pozitivně ovlivnil a ráda předá své zkušenosti dále.
+
+Strava ideálně odlehčená z vlastních zásob. Možnost společného vaření. Základní suroviny zde máme.
+
+V pátek budeme začínat v 18 hodin, ale příjezd je možný kdykoliv během dne.
+
+Cena za program i využívání prostoru je dobrovolná. Přihlášky na amrita@amrita.cz.
