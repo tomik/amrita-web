@@ -73,7 +73,7 @@ Pojeďte si s námi pro nové zážitky plné radosti a humoru na pohádkové m�
 Cena za program je 2000 korun. Příspěvek na prostor je dobrovolný. Přihlášky a další informace na info@joga.hk anebo na tel. 775388131.
 
 
-## Týdenní dětský pobyt (7. 7. 2018 - 14. 7. 2018)
+## Týdenní dětský pobyt (30. 6. 2018 - 7. 7. 2018)
 
 Celý týden si budeme s dětmi hrát, chodit do přírody a navzájem se od sebe učit. Program není pevně dán. Akce je určená pro děti od 6 - 12 let. Vzhledem ke komornímu charakteru akce budeme přednostně přijímat děti přátel a z blízkého okolí.
 
