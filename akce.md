@@ -79,6 +79,22 @@ Celý týden si budeme s dětmi hrát, chodit do přírody a navzájem se od seb
 
 Příspěvek je dobrovolný. Zájemci pište na amrita@amrita.cz.
 
+## Harmonizační vikend s jógou s Denisou Krejčířovou (20. 7. 2018 - 22. 7. 2018)
+
+Jóga jako cesta ke zvědomění vlastního těla - Cesta ke svobodné mysli skrze tělo a pohyb.
+
+S láskou všem kdo putují po stezkách do neznáma
+Hari Om Tat Sat
+KD
+
+Více informací o lektorce a její výuce na jejích <a href="https://www.zivotjakocesta.cz/joga/">webových stránkách</a>.
+
+
+Lektorné 1500,-
+Strava individuální, není zahrnuta v ceně. V prostoru je k dispozici kuchyňka. Příspěvek na ubytování a užívání prostoru je dobrovolný.
+
+Přihlášky a dotazy na masazekrejcirova@gmail.com
+
 ## Tantrický víkend s Janou Tillovou (27. 7. 2018 - 29. 7. 2018)
 
 Zveme vás na prožitkový víkend, kdy se budeme s Janou Tillovou věnovat sebeobjevovávání, dovolování si, uvolňování se a hraní si. Budeme vědomě zkoumat jak reagujeme na různé životní situace. Všimneme si, jak nás některé podněty vytáčí a jiné nás zase uspokojují a budeme zjišťovat proč to tak je. Budeme rozpouštět zaběhané vzorce chování, vnímat naše těla a nechávat naše emoce volně plynout. A třeba i uvidíme jak málo nám stačí ke stavu spokojenosti a prosté radosti ze života.
