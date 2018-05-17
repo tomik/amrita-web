@@ -57,6 +57,7 @@ Cena za program a stravu je 2500 korun za osobu. Příspěvek na ubytování je 
 
 Přihlášky přímo u Láďy na e-mailu ladalebeda@seznam.cz nebo telefonicky na 723 309 342.
 
+<!--
 ## Letní jógový víkend s Petrou a Janou (22. 6. 2018 - 24. 6. 2018)
 
 Zveme vás na víkendovou akci, kterou u nás pořádá Petra Pejcharová s Janou Špičákovou ze studia <a href="http://jogahk.cz">Jóga HK</a>:
@@ -71,6 +72,7 @@ Jak se přestat brát tak vážně a kouknout se na sebe z nadhledu.
 Pojeďte si s námi pro nové zážitky plné radosti a humoru na pohádkové místo na konci světa.
 
 Cena za program je 2000 korun. Příspěvek na prostor je dobrovolný. Přihlášky a další informace na info@joga.hk anebo na tel. 775388131.
+-->
 
 
 ## Týdenní dětský pobyt (30. 6. 2018 - 7. 7. 2018)
