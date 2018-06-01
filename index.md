@@ -4,9 +4,9 @@ title: O nás
 ---
 
 <p class="message">
-  Přátelé,
+  Vážení přátelé,
 
-  dokončujeme stavební úpravy a za pomoci šikovných řemeslníků se nám to tu pomalu završuje. V sekci <a href="/akce">akce</a> je již možno se hlásit na první pobyty.
+  do prostoru hledáme stálého zaměstnance na pozici správce objektu. Uvítáme buďto jednotlivce anebo mladý pár. Správce bude mít na starosti lehké práce okolo domu, údržbu zahrádky, úklid, výpomoc s akcemi, apod. Zkrátka vše co je třeba k zajištění běhu objektu. Vedle odpovídající finanční mzdy bude správce mít k dispozici vlastní útulný byt, který je součástí objektu. Hlavním benefitem je spoluúčast na smysluplném projektu na krásném místě. Hledáme někoho, kdo bude podobně naladěný jako my. 
 </p>
 
 ## Vize
