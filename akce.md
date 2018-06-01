@@ -47,15 +47,6 @@ Přihlášky přímo u Láďy na e-mailu ladalebeda@seznam.cz nebo telefonicky n
 
 -->
 
-## Jógový víkend s Láďou Lebedou (18. 5. 2018 - 20. 5. 2018)
-
-Zveme vás na víkendovou akci, kterou u nás pořádá <a href="http://jogaladalebeda.cz">Láďa Lebeda</a>. Láďa vás provede víkendem plným cvičení jógových asán, meditace, seznámením s filosofií jógy, společného makrobioticky inspirovaného vaření a procházek po okolí.
-
-Začátek v pátek 18. 5. 2017 v 18:00. Konec v neděli 20. 5. 2017 v 17:00.
-
-Cena za program a stravu je 2500 korun za osobu. Příspěvek na ubytování je dobrovolný.
-
-Přihlášky přímo u Láďy na e-mailu ladalebeda@seznam.cz nebo telefonicky na 723 309 342.
 
 <!--
 ## Letní jógový víkend s Petrou a Janou (22. 6. 2018 - 24. 6. 2018)
@@ -80,6 +71,17 @@ Cena za program je 2000 korun. Příspěvek na prostor je dobrovolný. Přihlá�
 Celý týden si budeme s dětmi hrát, chodit do přírody a navzájem se od sebe učit. Program není pevně dán. Akce je určená pro děti od 6 - 12 let. Vzhledem ke komornímu charakteru akce budeme přednostně přijímat děti přátel a z blízkého okolí.
 
 Příspěvek je dobrovolný. Zájemci pište na amrita@amrita.cz.
+
+## Jógový víkend s Láďou Lebedou (13. 7. 2018 - 15. 7. 2018)
+
+Zveme vás na víkendovou akci, kterou u nás pořádá <a href="http://jogaladalebeda.cz">Láďa Lebeda</a>. Láďa vás provede víkendem plným cvičení jógových asán, meditace, seznámením s filosofií jógy, společného makrobioticky inspirovaného vaření a procházek po okolí. Podobná akce v květnu se účastníkům velice líbila.
+
+Začátek v pátek 13. 7. 2018 v 18:00. Konec bude v neděli 15. 7. 2018 v 17:00.
+
+Cena za program a stravu je 2500 korun za osobu. Příspěvek na ubytování je dobrovolný.
+
+Přihlášky přímo u Láďy na e-mailu ladalebeda@seznam.cz nebo telefonicky na 723 309 342.
+
 
 ## Harmonizační vikend s jógou s Denisou Krejčířovou (20. 7. 2018 - 22. 7. 2018)
 
