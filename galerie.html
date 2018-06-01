@@ -12,7 +12,7 @@ title: Galerie
 {% assign image_files = site.static_files | where: "gallery_image", true %}
 <div class="image-row">
   <div class="image-set">
-  {% for myimage in image_files %}
+  {% for myimage in image_files reversed %}
     <a href="{{myimage.path}}" data-lightbox="amrita">
       <div style="display: inline-block; width: 156px; text-align: center;">
       <img style="display: inline;" src="{{ myimage.path | replace: 'images/','thumbnails/'}}"></img>

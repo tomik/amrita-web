@@ -4,9 +4,9 @@ title: O nás
 ---
 
 <p class="message">
-  Vážení přátelé,
+  Vážení přátelé, <br/> <br/>
 
-  do prostoru hledáme stálého zaměstnance na pozici správce objektu. Uvítáme buďto jednotlivce anebo mladý pár. Správce bude mít na starosti lehké práce okolo domu, údržbu zahrádky, úklid, výpomoc s akcemi, apod. Zkrátka vše co je třeba k zajištění běhu objektu. Vedle odpovídající finanční mzdy bude správce mít k dispozici vlastní útulný byt, který je součástí objektu. Hlavním benefitem je spoluúčast na smysluplném projektu na krásném místě. Hledáme někoho, kdo bude podobně naladěný jako my. 
+  do prostoru hledáme stálého zaměstnance na pozici <strong> správce objektu </strong>. Uvítáme buďto jednotlivce anebo mladý pár. Správce bude mít na starosti lehké práce okolo domu, údržbu zahrádky, úklid, výpomoc s akcemi, apod. Zkrátka vše co je třeba k zajištění běhu objektu. Vedle odpovídající finanční mzdy bude správce mít k dispozici vlastní útulný byt, který je součástí objektu. Hlavním benefitem je spoluúčast na smysluplném projektu na krásném místě. Hledáme někoho, kdo je podobně naladěný jako my.
 </p>
 
 ## Vize
