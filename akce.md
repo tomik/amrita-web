@@ -99,7 +99,7 @@ Strava individuální, není zahrnuta v ceně. V prostoru je k dispozici kuchyň
 
 Přihlášky a dotazy na masazekrejcirova@gmail.com
 
-## Tantrický víkend s Janou Tillovou (27. 7. 2018 - 29. 7. 2018)
+## Pránický víkend s Janou Tillovou (27. 7. 2018 - 29. 7. 2018)
 
 Zveme vás na prožitkový víkend, kdy se budeme s Janou Tillovou věnovat sebeobjevovávání, dovolování si, uvolňování se a hraní si. Budeme vědomě zkoumat jak reagujeme na různé životní situace. Všimneme si, jak nás některé podněty vytáčí a jiné nás zase uspokojují a budeme zjišťovat proč to tak je. Budeme rozpouštět zaběhané vzorce chování, vnímat naše těla a nechávat naše emoce volně plynout. A třeba i uvidíme jak málo nám stačí ke stavu spokojenosti a prosté radosti ze života.
 
@@ -132,7 +132,7 @@ do společného pátečního bufetu. Doporučujeme s sebou pohodlné oblečení,
 
 Cena 1500 korun za program a stravu. Příspěvek na prostor je dobrovolný. Přihláška a platba předem přímo u Marcelky na tel. 777553698 anebo na macinacackova@seznam.cz.
 
-## Tantrický víkend s Janou Tillovou (24. 8. 2018 - 26. 8. 2018)
+## Pránický víkend s Janou Tillovou (24. 8. 2018 - 26. 8. 2018)
 
 Zveme vás na prožitkový víkend, kdy se budeme s Janou Tillovou věnovat sebeobjevovávání, dovolování si, uvolňování se a hraní si. Budeme vědomě zkoumat jak reagujeme na různé životní situace. Všimneme si, jak nás některé podněty vytáčí a jiné nás zase uspokojují a budeme zjišťovat proč to tak je. Budeme rozpouštět zaběhané vzorce chování, vnímat naše těla a nechávat naše emoce volně plynout. A třeba i uvidíme jak málo nám stačí ke stavu spokojenosti a prosté radosti ze života.
 
