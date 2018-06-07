@@ -9,27 +9,21 @@ title: O nás
   do prostoru hledáme stálého zaměstnance na pozici <strong> správce objektu </strong>. Uvítáme buďto jednotlivce anebo mladý pár. Správce bude mít na starosti lehké práce okolo domu, údržbu zahrádky, úklid, výpomoc s akcemi, apod. Zkrátka vše co je třeba k zajištění běhu objektu. Vedle odpovídající finanční mzdy bude správce mít k dispozici vlastní útulný byt, který je součástí objektu. Hlavním benefitem je spoluúčast na smysluplném projektu na krásném místě. Hledáme někoho, kdo je podobně naladěný jako my.
 </p>
 
-## Vize
-
-Žijeme a tvoříme v Orlických horách. Jsou nám blízká následující témata:
+Žijeme a tvoříme v Nebeské Rybné v Orlických horách, v krásném prostoru, který jsme nazvali <a href="/neberybka">Neberybka</a>. Jsou nám blízká následující témata:
 
 * přítomnost - přesunout se z hlavy do Tady a teď
 * svobodný život - odvaha jít svou cestou
 * tvořivost - vyrábíme, stavíme, zahrádkaříme, zpíváme, hrajeme, smějeme se
 * harmonie s přírodou - vážit si jejích darů a neplýtvat jimi
 
-## Pobyty
 
-Pořádáme víkendové a týdenní pobyty zaměřené na předchozí témata, obzvláště pak na prožívání přítomnosti. Na pobytech:
+Lidé si k nám přijíždějí popovídat, posdílet, poinspirovat, pobavit anebo jen tak příjemně <a href="/pobyvani">pobýt</a>.
 
-* uvědomujeme si a prožíváme své tělo
-* dovolujeme si prožívat své emoce
-* odlehčujeme stravu a očišťujeme fyzické tělo
-* pobýváme v tichu
-* meditujeme
-* sdílíme své zážitky a životní zkušenosti
-* navzájem se podporujeme
+Pořádají se zde víkendové i týdenní pobyty různého zaměření, typickýmí tématy jsou:
 
-## Prostor
+* zvědomování svého těla
+* práce s emocemi a zaběhanými vzorci chování
+* meditace a pobývání v tichu
+* tvoření
 
-Momentálně upravujeme chalupu, kde bydlíme, na prostor setkávání. Jde o místo na polosamotě stranou hlavních komunikací, co by kamenem dohodil ke kouzelné říčce Zdobnici. Vzniká nám tu krásná meditační místnost, několik pokojíčků, společné prostory, dílnička, zahrádka s jezírky a výhledově možná i sauna a domečky pro pobyt v tichu. První návštěvníky víkendových či týdenních pobytů zde přivítáme na jaře 2018.
+Rádi poskytneme prostor i pro setkání podobně naladěných lidí anebo organizací.
