@@ -32,12 +32,6 @@ defaults:
       gallery_image:      true
 
   - scope:
-      path:       "public/gallery/images"
-    values:
-      gallery_thumbnail:      true
-
-defaults:
-  - scope:
       path:       "public/neberybka_gallery/images"
     values:
       neberybka_gallery_image:      true
