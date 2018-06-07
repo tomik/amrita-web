@@ -1,0 +1,62 @@
+---
+layout: page
+title: Neberybka
+---
+
+Prostor, ve kterém sídlíme, sdílíme a tvoříme jsme pojmenovali Neberybka. Je to chalupa na polosamotě u lesa stranou hlavních komunikací, co by kamenem dohodil ke kouzelné říčce Zdobnici.
+
+<h2>Prostory</h2>
+
+<p>
+  Dominantou chalupy je prosklená meditárna s galerií. Na jednom koncertě se nás do ní pohodlně vešlo přes 40 lidí.
+</p>
+
+<p>
+Pro ubytování jsou k dispozici 3-4 malé pokojíčky pro 2 lidi (Do budoucna jich bude 6). Dále je tu velký podkrovní pokoj, kde se vyspí i 10-12 lidí. Dále se 4-6 lidí může ubytovat v otevřené galerii nad meditárnou. A samozřejmě je možnost spát i v meditárně samotné a nechat se probudit paprsky vycházejícího slunce.
+</p>
+
+<p>
+V přízemí je kuchyně spojená s obývacím prostorem. Posedět se dá i v zimní zahradě odkud je pěkný výhled na zahradu a do lesa. K dispozici máme i dílnu, kterou momentálně vybavujeme.
+</p>
+
+<p>
+V chalupě jsou 4 společné toalety, z toho 3 kompostovací a jeden "normální". Máme tu 4 sprchy různých tvarů a velikostí a také společnou prádelnu.
+</p>
+
+<p>
+Chalupa je čerstvě rekonstruovaná - trvalo nám to 9 měsíců - náhoda? Veškeré výdobytky blahobytu tu jsou k dispozici - tedy elektřina, teplá i studená voda (z vrtu za domem), centrální topení i internet.
+</p>
+
+<p>
+Prostor okolo chalupy dotváří zahrádka, květinové záhonky a skalky. Pitnou vodu je možné nabrat i z přírodního pramínku pod chalupou. A chutná báječně.
+</p>
+
+<h2> Stravování </h2>
+
+K dispozici je zde společná kuchyňka. Je kompletně vybavená a je možné používat i základní potraviny, které tu máme. Pokud není uvedeno jinak, tak je stravování formou (společného) vaření z vlastních zásob.
+
+<h2> Obchůdek </h2>
+
+Je možnost si u nás zakoupit lokální výrobky anebo věci, které vyrábíme sami. V obchůdku jsou třeba mýdla, sirupy, medíky, bylinky a bylinkovice, přípravky na úlevu od různých zdravotních obtíží, polštářky, šperky, svíčky a další.
+
+<h2> Psi, kočky a další domácí mazlíčci </h2><s></s>
+
+Jednoho domácího "mazlíčka" tu momentálně máme. Je to Kavkazský pastevecký pes, váží přes 80kg, jmenuje se Barnabášek a nevychází dobře s pejsky (s fenkami občas), kočkami a spol. Takže prosím pokud sem za námi jedete, nechte své mazlíčky doma!
+
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="{{ site.baseurl }}/public/js/lightbox.js"></script>
+
+<p>
+{% assign image_files = site.static_files | where: "neberybka_gallery_image", true %}
+<div class="image-row">
+  <div class="image-set">
+  {% for myimage in image_files %}
+    <a href="{{myimage.path}}" data-lightbox="amrita">
+      <div style="display: inline-block; width: 156px; text-align: center;">
+      <img style="display: inline;" src="{{ myimage.path | replace: 'images/','thumbnails/'}}"></img>
+    </div>
+    </a>
+  {% endfor %}
+</div>
+</div>
+</p>

@@ -36,6 +36,12 @@ defaults:
     values:
       gallery_thumbnail:      true
 
+defaults:
+  - scope:
+      path:       "public/neberybka_gallery/images"
+    values:
+      neberybka_gallery_image:      true
+
 urls:
   blog:           /blog
   contact:        /kontakt
@@ -43,3 +49,4 @@ urls:
   people:         /lide
   gallery:        /galerie
   staying:        /pobyvani
+  neberybka:        /neberybka
