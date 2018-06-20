@@ -6,7 +6,7 @@ title: O nás
 <p class="message">
   Vážení přátelé, <br/> <br/>
 
-  je tady léto a my máme plné ruce práce na pozemku okolo chalupy. Upravujeme terén, stavíme záhonky, zídky, chodníčky, chystáme se na jezírko, no zkrátka v plánu je toho ještě mnoho. Pokud máte čas a chuť podílet se na tvorbě něčeho hezkého, tak velmi oceníme vaši pomoc. Kromě výše zmíněné práce, která by byla samozřejmě zaplacena, můžeme nabídnout pobyt na inspirujícím místě s ubytováním a stravou.
+  je tady léto a my máme plné ruce práce na pozemku okolo chalupy. Upravujeme terén, stavíme záhonky, zídky, chodníčky, chystáme se na jezírko, no zkrátka v plánu je toho ještě mnoho. Pokud máte chuť podílet se na tvorbě něčeho hezkého, tak velmi oceníme vaši pomoc. Práce by byla zaplacena, ubytování a stravování zajištěno.
 </p>
 
 Žijeme a tvoříme v Nebeské Rybné v Orlických horách, v krásném prostoru, který jsme nazvali <a href="/neberybka">Neberybka</a>. Jsou nám blízká následující témata:
