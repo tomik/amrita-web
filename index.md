@@ -4,7 +4,7 @@ title: O nás
 ---
 
 <p class="message">
-  Vážení přátelé, <br/> <br/>
+  Přátelé, <br/> <br/>
 
   je tady léto a my máme plné ruce práce na pozemku okolo chalupy. Upravujeme terén, stavíme záhonky, zídky, chodníčky, chystáme se na jezírko, no zkrátka v plánu je toho ještě mnoho. Pokud máte chuť podílet se na tvorbě něčeho hezkého, tak velmi oceníme vaši pomoc. Práce by byla zaplacena, ubytování a stravování zajištěno.
 </p>
