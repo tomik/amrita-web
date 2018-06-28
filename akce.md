@@ -145,3 +145,13 @@ Strava ideálně odlehčená z vlastních zásob. Možnost společného vařen�
 V pátek budeme začínat v 18 hodin, ale příjezd je možný kdykoliv během dne.
 
 Cena za program i využívání prostoru je dobrovolná. Přihlášky na amrita@amrita.cz.
+
+## Jóga cestou bytí s Petrem Berkou (21. 9. 2018 - 23. 9. 2018)
+
+Zveme vás na víkendovou akci, kterou u nás pořádá Petr Berka.
+
+Příjezd v pátek 21. 9. 2018 mezi 15 a 17 hodinou. Odjezd v neděli 23. 9. 2018 do 17 hodiny.
+
+Strava zajištěna. Příspěvek na ubytování je dobrovolný.
+
+Přihlášky a dotazy přímo u Petra na e-mailu petr.berka.81@gmail.com.
