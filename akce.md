@@ -63,7 +63,7 @@ Jak se přestat brát tak vážně a kouknout se na sebe z nadhledu.
 Pojeďte si s námi pro nové zážitky plné radosti a humoru na pohádkové místo na konci světa.
 
 Cena za program je 2000 korun. Příspěvek na prostor je dobrovolný. Přihlášky a další informace na info@joga.hk anebo na tel. 775388131.
--->
+
 
 
 ## Týdenní dětský pobyt (30. 6. 2018 - 7. 7. 2018)
@@ -98,6 +98,7 @@ Lektorné 1500,-
 Strava individuální, není zahrnuta v ceně. V prostoru je k dispozici kuchyňka. Příspěvek na ubytování a užívání prostoru je dobrovolný.
 
 Přihlášky a dotazy na masazekrejcirova@gmail.com
+-->
 
 ## Pránický víkend s Janou Tillovou (27. 7. 2018 - 29. 7. 2018)
 
