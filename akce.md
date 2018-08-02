@@ -149,6 +149,14 @@ V pátek budeme začínat v 18 hodin, ale příjezd je možný kdykoliv během d
 
 Cena za program i využívání prostoru je dobrovolná. Přihlášky na amrita@amrita.cz.
 
+## Příprava dřeva a podzimní úklid lesa s Tamjdem (7. 9. 2018 - 9. 9. 2018)
+
+Přijede k nám skupinka dobrovolníků z <a href="http://www.tamjdem.cz">Tamjdem</a> na pracovní víkend, kdy se bude hlavně připravovat dřevo, uklízet les, případně dělat podzimní úklid kolem domu.
+
+Ubytování a strava je zajištěna. Po večerech bude možnost společného programu, hraní na nástroje, sdílení.
+
+Pokud máte zájem se připojit a přijet pomoci, tak nám napište email. Vzhledem k povaze práce uvítáme hlavně silné muže =)
+
 ## Jóga cestou bytí s Petrem Berkou (21. 9. 2018 - 23. 9. 2018)
 
 Zveme vás na víkendovou akci, kterou u nás pořádá Petr Berka.
