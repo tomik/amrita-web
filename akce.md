@@ -98,7 +98,7 @@ Lektorné 1500,-
 Strava individuální, není zahrnuta v ceně. V prostoru je k dispozici kuchyňka. Příspěvek na ubytování a užívání prostoru je dobrovolný.
 
 Přihlášky a dotazy na masazekrejcirova@gmail.com
--->
+
 
 ## Pránický víkend s Janou Tillovou (27. 7. 2018 - 29. 7. 2018)
 
@@ -113,6 +113,8 @@ Strava ideálně odlehčená z vlastních zásob. Možnost společného vařen�
 V pátek budeme začínat v 18 hodin, ale příjezd je možný kdykoliv během dne.
 
 Cena za program i využívání prostoru je dobrovolná. Přihlášky na amrita@amrita.cz.
+
+-->
 
 ## Týdenní dětský pobyt (4. 8. 2018 - 11. 8. 2018)
 
@@ -156,3 +158,26 @@ Příjezd v pátek 21. 9. 2018 mezi 15 a 17 hodinou. Odjezd v neděli 23. 9. 20
 Strava zajištěna. Příspěvek na ubytování je dobrovolný.
 
 Přihlášky a dotazy přímo u Petra na e-mailu petr.berka.81@gmail.com.
+
+## Svatováclavské zpívání s Mantrovníky (28.9.2018)
+
+V pátek od 14 hodin u nás opět budou hrát a zpívat <a href="http://www.gajatri.net">Mantrovníci</a>.
+
+Je možné přijet v pátek už dříve a zůstat přes víkend.
+
+
+## Harmonizační vikend s jógou s Denisou Krejčířovou (9. 11. 2018 - 11. 11. 2018)
+
+Jóga jako cesta ke zvědomění vlastního těla - Cesta ke svobodné mysli skrze tělo a pohyb.
+
+S láskou všem kdo putují po stezkách do neznáma
+Hari Om Tat Sat
+KD
+
+Více informací o lektorce a její výuce na jejích <a href="https://www.zivotjakocesta.cz/joga/">webových stránkách</a>.
+
+
+Lektorné 1500,-
+Strava individuální, není zahrnuta v ceně. V prostoru je k dispozici kuchyňka. Příspěvek na ubytování a užívání prostoru je dobrovolný.
+
+Přihlášky a dotazy na masazekrejcirova@gmail.com
