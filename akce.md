@@ -185,7 +185,10 @@ KD
 Více informací o lektorce a její výuce na jejích <a href="https://www.zivotjakocesta.cz/joga/">webových stránkách</a>.
 
 
-Lektorné 1500,-
-Strava individuální, není zahrnuta v ceně. V prostoru je k dispozici kuchyňka. Příspěvek na ubytování a užívání prostoru je dobrovolný.
+## Výroba šamanského bubnu s Radkem Zítkou (2. 11. 2018 - 4. 11. 2018)
 
-Přihlášky a dotazy na masazekrejcirova@gmail.com
+<a href="https://www.etnickenastroje.cz">Radek Zítka</a> se práci s bubny i dalšími etnickými nástroji věnuje již přes 20 let. O tomto víkendu vás provede výrobou vašeho vlastního šamanského bubnu. Veškerý materiál na výrobu bubnu bude zabezpečen, vyrábět si ho budete sami pod Radkovým dohledem. Součástí víkendu budou i rituály spojené s výrobou bubnu.
+
+Cena za výrobu bubnu závisí na velikosti rámu: 30 cm 1600 Kč, 40 cm 2300 Kč, a 50cm 3000 Kč.
+
+Počet účastníků je omezen. Přihlášky pouze emailem na amrita@amrita.cz. Záloha 1200 Kč za osobu.
