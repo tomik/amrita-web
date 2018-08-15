@@ -174,6 +174,15 @@ V pátek od 14 hodin u nás opět budou hrát a zpívat <a href="http://www.gaja
 Je možné přijet v pátek už dříve a zůstat přes víkend.
 
 
+## Výroba šamanského bubnu s Radkem Zítkou (2. 11. 2018 - 4. 11. 2018)
+
+<a href="https://www.etnickenastroje.cz">Radek Zítka</a> se práci s bubny i dalšími etnickými nástroji věnuje již přes 20 let. O tomto víkendu vás provede výrobou vašeho vlastního šamanského bubnu. Veškerý materiál na výrobu bubnu bude zabezpečen, vyrábět si ho budete sami pod Radkovým dohledem. Součástí víkendu budou i rituály spojené s výrobou bubnu. Budou na výběr velikosti rámů od 37 do 50 cm.
+
+Cena za výrobu bubnu je 2500. Cena za ubytování a užívání prostor je dobrovolná. Máte-li zájem, tak jednoduché stravování bude zajištěno (cena podle nákladů).
+
+Počet účastníků je omezen. Přihlášky pouze emailem na amrita@amrita.cz. Záloha 1200 Kč za osobu. Do mailu uveďte i máte-li zájem o stravování.
+
+
 ## Harmonizační vikend s jógou s Denisou Krejčířovou (9. 11. 2018 - 11. 11. 2018)
 
 Jóga jako cesta ke zvědomění vlastního těla - Cesta ke svobodné mysli skrze tělo a pohyb.
@@ -185,10 +194,5 @@ KD
 Více informací o lektorce a její výuce na jejích <a href="https://www.zivotjakocesta.cz/joga/">webových stránkách</a>.
 
 
-## Výroba šamanského bubnu s Radkem Zítkou (2. 11. 2018 - 4. 11. 2018)
-
-<a href="https://www.etnickenastroje.cz">Radek Zítka</a> se práci s bubny i dalšími etnickými nástroji věnuje již přes 20 let. O tomto víkendu vás provede výrobou vašeho vlastního šamanského bubnu. Veškerý materiál na výrobu bubnu bude zabezpečen, vyrábět si ho budete sami pod Radkovým dohledem. Součástí víkendu budou i rituály spojené s výrobou bubnu.
-
-Cena za výrobu bubnu závisí na velikosti rámu: 30 cm 1600 Kč, 40 cm 2300 Kč, a 50cm 3000 Kč.
 
 Počet účastníků je omezen. Přihlášky pouze emailem na amrita@amrita.cz. Záloha 1200 Kč za osobu.
