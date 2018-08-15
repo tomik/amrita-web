@@ -114,8 +114,6 @@ V pátek budeme začínat v 18 hodin, ale příjezd je možný kdykoliv během d
 
 Cena za program i využívání prostoru je dobrovolná. Přihlášky na amrita@amrita.cz.
 
--->
-
 ## Týdenní dětský pobyt (4. 8. 2018 - 11. 8. 2018)
 
 Celý týden si budeme s dětmi hrát, chodit do přírody a navzájem se od sebe učit. Program není pevně dán. Akce je určená pro děti od 6 - 12 let. Vzhledem ke komornímu charakteru akce budeme přednostně přijímat děti přátel a z blízkého okolí.
@@ -123,6 +121,10 @@ Celý týden si budeme s dětmi hrát, chodit do přírody a navzájem se od seb
 Příspěvek je dobrovolný. Zájemci pište na amrita@amrita.cz.
 
 ## Jógový relaxační víkend s Marcelou Cackovou - Jóga a ájurvéda v Neberybce (17. 8. 2018 - 19. 8. 2018)
+
+
+-->
+
 
 Zveme vás na víkendovou akci, kterou u nás pořádá Marcelka Cacková z Lanškrounského studia <a href="http://om-shakti.cz">Om shakti</a>:
 
