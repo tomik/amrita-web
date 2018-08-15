@@ -120,11 +120,10 @@ Celý týden si budeme s dětmi hrát, chodit do přírody a navzájem se od seb
 
 Příspěvek je dobrovolný. Zájemci pište na amrita@amrita.cz.
 
-## Jógový relaxační víkend s Marcelou Cackovou - Jóga a ájurvéda v Neberybce (17. 8. 2018 - 19. 8. 2018)
-
-
 -->
 
+
+## Jógový relaxační víkend s Marcelou Cackovou - Jóga a ájurvéda v Neberybce (17. 8. 2018 - 19. 8. 2018)
 
 Zveme vás na víkendovou akci, kterou u nás pořádá Marcelka Cacková z Lanškrounského studia <a href="http://om-shakti.cz">Om shakti</a>:
 
