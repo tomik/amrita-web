@@ -120,8 +120,6 @@ Celý týden si budeme s dětmi hrát, chodit do přírody a navzájem se od seb
 
 Příspěvek je dobrovolný. Zájemci pište na amrita@amrita.cz.
 
--->
-
 
 ## Jógový relaxační víkend s Marcelou Cackovou - Jóga a ájurvéda v Neberybce (17. 8. 2018 - 19. 8. 2018)
 
@@ -135,6 +133,9 @@ Strava zajištěna od soboty, proto si přivezte něco
 do společného pátečního bufetu. Doporučujeme s sebou pohodlné oblečení, jógamatku a deku na cvičení a relaxaci. Co není doporučeno - špatná nálada, alkohol a cigarety.
 
 Cena 1500 korun za program a stravu. Příspěvek na prostor je dobrovolný. Přihláška a platba předem přímo u Marcelky na tel. 777553698 anebo na macinacackova@seznam.cz.
+
+-->
+
 
 ## Pránický víkend s Janou Tillovou (24. 8. 2018 - 26. 8. 2018)
 
@@ -183,6 +184,7 @@ Cena za výrobu bubnu je 2500. Cena za ubytování a užívání prostor je dobr
 
 Počet účastníků je omezen. Přihlášky pouze emailem na amrita@amrita.cz. Záloha 1200 Kč za osobu. Do mailu uveďte i máte-li zájem o stravování.
 
+<!--
 
 ## Harmonizační vikend s jógou s Denisou Krejčířovou (9. 11. 2018 - 11. 11. 2018)
 
@@ -197,3 +199,5 @@ Více informací o lektorce a její výuce na jejích <a href="https://www.zivot
 
 
 Počet účastníků je omezen. Přihlášky pouze emailem na amrita@amrita.cz. Záloha 1200 Kč za osobu.
+
+-->
