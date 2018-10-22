@@ -134,7 +134,6 @@ do společného pátečního bufetu. Doporučujeme s sebou pohodlné oblečení,
 
 Cena 1500 korun za program a stravu. Příspěvek na prostor je dobrovolný. Přihláška a platba předem přímo u Marcelky na tel. 777553698 anebo na macinacackova@seznam.cz.
 
--->
 
 
 ## Pránický víkend s Janou Tillovou (24. 8. 2018 - 26. 8. 2018)
@@ -159,6 +158,7 @@ Ubytování a strava je zajištěna. Po večerech bude možnost společného pro
 
 Pokud máte zájem se připojit a přijet pomoci, tak nám napište email. Vzhledem k povaze práce uvítáme hlavně silné muže =)
 
+
 ## Jóga cestou bytí s Petrem Berkou (21. 9. 2018 - 23. 9. 2018)
 
 Zveme vás na víkendovou akci, kterou u nás pořádá Petr Berka.
@@ -168,6 +168,8 @@ Příjezd v pátek 21. 9. 2018 mezi 15 a 17 hodinou. Odjezd v neděli 23. 9. 20
 Strava zajištěna. Příspěvek na ubytování je dobrovolný.
 
 Přihlášky a dotazy přímo u Petra na e-mailu petr.berka.81@gmail.com.
+
+-->
 
 ## Svatováclavské zpívání s Mantrovníky (28.9.2018)
 
