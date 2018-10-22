@@ -169,13 +169,15 @@ Strava zajištěna. Příspěvek na ubytování je dobrovolný.
 
 Přihlášky a dotazy přímo u Petra na e-mailu petr.berka.81@gmail.com.
 
--->
+
 
 ## Svatováclavské zpívání s Mantrovníky (28.9.2018)
 
 V pátek od 14 hodin u nás opět budou hrát a zpívat <a href="http://www.gajatri.net">Mantrovníci</a>.
 
 Je možné přijet v pátek už dříve a zůstat přes víkend.
+
+-->
 
 
 ## Výroba šamanského bubnu s Radkem Zítkou (2. 11. 2018 - 4. 11. 2018)
