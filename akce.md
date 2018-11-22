@@ -177,7 +177,6 @@ V pátek od 14 hodin u nás opět budou hrát a zpívat <a href="http://www.gaja
 
 Je možné přijet v pátek už dříve a zůstat přes víkend.
 
--->
 
 
 ## Výroba šamanského bubnu s Radkem Zítkou (2. 11. 2018 - 4. 11. 2018)
@@ -188,6 +187,7 @@ Cena za výrobu bubnu je 2500. Cena za ubytování a užívání prostor je dobr
 
 Počet účastníků je omezen. Přihlášky pouze emailem na amrita@amrita.cz. Záloha 1200 Kč za osobu. Do mailu uveďte i máte-li zájem o stravování.
 
+-->
 <!--
 
 ## Harmonizační vikend s jógou s Denisou Krejčířovou (9. 11. 2018 - 11. 11. 2018)
@@ -205,3 +205,5 @@ Více informací o lektorce a její výuce na jejích <a href="https://www.zivot
 Počet účastníků je omezen. Přihlášky pouze emailem na amrita@amrita.cz. Záloha 1200 Kč za osobu.
 
 -->
+
+### Přes zimu 2018/2019 žádné akce naplánované nejsou. Spíme.
