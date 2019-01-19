@@ -12,7 +12,7 @@ Rokytnice v Orlických horách
 
 e-mail: <script language="JavaScript">
 var username = "neberybka";
-var hostname = "gmail.com";
+var hostname = "seznam.cz";
 var full_email = username + "@" + hostname ;
 document.write(full_email);
 </script>

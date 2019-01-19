@@ -24,7 +24,7 @@ Strava bude lehká, domácí a chutná.
 
 V pátek budeme začínat v 18 hodin, ale příjezd je možný i dříve.
 
-Cenu za pobyt brzy doplníme. Přihlášky na neberybka@gmail.com.
+Cenu za pobyt brzy doplníme. Přihlášky na neberybka@seznam.cz.
 
 ## Pránický víkend s Janou Tillovou (24. 5. 2018 - 26. 5. 2018)
 
@@ -38,7 +38,7 @@ Strava bude lehká, domácí a chutná.
 
 V pátek budeme začínat v 18 hodin, ale příjezd je možný i dříve.
 
-Cenu za pobyt brzy doplníme. Přihlášky na neberybka@gmail.com.
+Cenu za pobyt brzy doplníme. Přihlášky na neberybka@seznam.cz.
 
 ## Týdenní dětský pobyt (13. 7. 2018 - 20. 7. 2018)
 
@@ -48,7 +48,7 @@ Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
 
 Příjezd v sobotu dopoledne.
 
-Cenu za pobyt brzy doplníme. Zájemci pište na neberybka@gmail.com.
+Cenu za pobyt brzy doplníme. Zájemci pište na neberybka@seznam.cz.
 
 ## Týdenní dětský pobyt (10. 8. 2018 - 17. 8. 2018)
 
@@ -58,7 +58,7 @@ Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
 
 Příjezd v sobotu dopoledne.
 
-Cenu za pobyt brzy doplníme. Zájemci pište na neberybka@gmail.com.
+Cenu za pobyt brzy doplníme. Zájemci pište na neberybka@seznam.cz.
 
 <!--
 ## Otevírání prostoru (20.3.2018 - 25.3.2018)
