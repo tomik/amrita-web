@@ -3,13 +3,15 @@ layout: default
 title: O nás
 ---
 
+<!--
 <p class="message">
   Přátelé, <br/> <br/>
 
   je tady léto a my máme plné ruce práce na pozemku okolo chalupy. Upravujeme terén, stavíme záhonky, zídky, chodníčky, chystáme se na jezírko, no zkrátka v plánu je toho ještě mnoho. Pokud máte chuť podílet se na tvorbě něčeho hezkého, tak velmi oceníme vaši pomoc. Práce by byla zaplacena, ubytování a stravování zajištěno.
 </p>
+-->
 
-Žijeme a tvoříme v Nebeské Rybné v Orlických horách, v krásném prostoru, který jsme nazvali <a href="/neberybka">Neberybka</a>. Jsou nám blízká následující témata:
+Žijeme a tvoříme v Nebeské Rybné v Orlických horách, jsou nám blízká následující témata:
 
 * přítomnost - přesunout se z hlavy do Tady a teď
 * svobodný život - odvaha jít svou cestou

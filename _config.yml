@@ -37,10 +37,9 @@ defaults:
       neberybka_gallery_image:      true
 
 urls:
-  blog:           /blog
-  contact:        /kontakt
-  events:         /akce
-  people:         /lide
-  gallery:        /galerie
-  staying:        /pobyvani
-  neberybka:        /neberybka
+  kontakt:        /kontakt
+  akce:           /akce
+  lide:           /lide
+  galerie:        /galerie
+  pobyvani:       /pobyvani
+  prostor:        /prostor

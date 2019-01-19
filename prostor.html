@@ -1,0 +1,70 @@
+---
+layout: page
+title: Poloha
+---
+
+Neberybka je chalupa na polosamotě u lesa stranou hlavních komunikací, co by kamenem dohodil ke kouzelné říčce Zdobnici. Hned za chalupou začíná les, v létě zde voní louky a v zimě
+
+<h1>Prostory</h1>
+
+<p>
+  Dominantou chalupy je prosklená meditárna s galerií. Na jednom koncertě se nás do ní pohodlně vešlo přes 40 lidí.
+</p>
+
+<p>
+Pro ubytování jsou k dispozici 4 malé pokojíčky (pro 1-2, 2, 2, 2-3 lidi), do budoucna jich bude 6. Dále je tu velký podkrovní pokoj, kde se pohodlně vyspí 6-10 lidí. Dále se 4-6 lidí může ubytovat v otevřené galerii nad meditárnou. A samozřejmě je možnost spát i v meditárně samotné a nechat se probudit paprsky vycházejícího slunce.
+</p>
+
+<p>
+V přízemí je kuchyně spojená s obývacím prostorem. Posedět se dá i v zimní zahradě odkud je pěkný výhled na zahradu a do lesa. K dispozici je i malá dílna na tvoření.
+</p>
+
+<p>
+ Máme tu futony a matrace pro až 16 lidí. Je lepší, když si kdo může doveze vlastní spacák a ručník. Hlavně z toho důvodu, že máme omezené zdroje vody na praní (vlastní studna). Každopádně jak ručníky tak deky na spaní tu máme pro 10 - 12 lidí. Pro stejný počet tu máme jógamatky na cvičení a deky na relaxaci.
+ </p
+
+<p>
+V chalupě jsou 3 společné kompostovací toalety a 2 venkovní kadibudky. Máme tu 4 sprchy různých tvarů a velikostí.
+</p>
+
+<p>
+Chalupa je čerstvě rekonstruovaná - trvalo nám to 9 měsíců - náhoda? Veškeré výdobytky blahobytu tu jsou k dispozici - tedy elektřina, teplá i studená voda (z vrtu za domem), centrální topení i internet.
+</p>
+
+<p>
+Prostor okolo chalupy dotváří zahrádka, květinové záhonky a skalky.  V létě se dá vařít a pobývat ve venkovní kuchyni. Pitnou vodu je možné nabrat i z přírodního pramínku pod chalupou. A chutná báječně.
+</p>
+
+<h1> Cena </h1>
+
+Cena za ubytování a využívání prostor je 400 korun za osobu a den / noc, tedy 800 korun za víkend za osobu a minimum za víkend za skupinu je 8000 korun (tj. kdyby přijelo méně než 10 lidí). Cena zahrnuje ubytování a využívání výše popsaných prostor.
+
+<h1> Stravování </h1>
+
+K dispozici je zde společná kuchyňka. Je kompletně vybavená a je možné používat i základní potraviny, které tu máme. Pokud není uvedeno jinak, tak je stravování formou (společného) vaření z vlastních zásob.
+
+<h1> Obchůdek </h1>
+
+Je možnost si u nás zakoupit lokální výrobky anebo věci, které vyrábíme sami. V obchůdku jsou třeba mýdla, sirupy, medíky, bylinky a bylinkovice, přípravky na úlevu od různých zdravotních obtíží, polštářky, šperky, svíčky a další.
+
+<h1> Psi, kočky a další domácí mazlíčci </h1><s></s>
+
+Jednoho domácího "mazlíčka" tu momentálně máme. Je to Kavkazský pastevecký pes, váží přes 80kg, jmenuje se Barnabášek a nevychází dobře s pejsky (s fenkami občas), kočkami a spol. Takže prosím pokud sem za námi jedete, nechte své mazlíčky doma!
+
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="{{ site.baseurl }}/public/js/lightbox.js"></script>
+
+<p>
+{% assign image_files = site.static_files | where: "neberybka_gallery_image", true %}
+<div class="image-row">
+  <div class="image-set">
+  {% for myimage in image_files %}
+    <a href="{{myimage.path}}" data-lightbox="amrita">
+      <div style="display: inline-block; width: 156px; text-align: center;">
+      <img style="display: inline;" src="{{ myimage.path | replace: 'images/','thumbnails/'}}"></img>
+    </div>
+    </a>
+  {% endfor %}
+</div>
+</div>
+</p>

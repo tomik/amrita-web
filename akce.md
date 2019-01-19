@@ -3,8 +3,64 @@ layout: page
 title: Akce
 ---
 
-<!--
+Na rok 2019 jsou ještě volné následující termíny.
 
+8-10.3, 22-24.3, 5-7.4, 10-12.5, 7-9.6, 21-23.6, 28-30.6., 2-4.8, 30.8-1.9, 13-15.9, 25-27.10, 1-3.11, 15-17.11, 29.11-1.12
+
+Po domluvě se termíny dají upravit (třeba příjezd ve čtvrtek a odjezd v pondělí, případně i celý týden). Jinak na víkend je standartní příjezd po 4 hodině v pátek a odjezd do 4 hodin v neděli.
+
+Cena za ubytování a využívání prostor je 400 korun za osobu a den / noc, tedy 800 korun za víkend za osobu a minimum za víkend za skupinu je 8000 korun (tj. kdyby přijelo méně než 10 lidí). Cena zahrnuje ubytování a využívání <a href="/prostor">prostor</a>.
+
+
+## Pránický víkend s Janou Tillovou (26. 4. 2018 - 28. 4. 2018)
+
+Zveme vás na prožitkový víkend, kdy se budeme s Janou Tillovou věnovat sebeobjevovávání, dovolování si, uvolňování se a hraní si. Budeme vědomě zkoumat jak reagujeme na různé životní situace. Všimneme si, jak nás některé podněty vytáčí a jiné nás zase uspokojují a budeme zjišťovat proč to tak je. Budeme rozpouštět zaběhané vzorce chování, vnímat naše těla a nechávat naše emoce volně plynout. A třeba i uvidíme jak málo nám stačí ke stavu spokojenosti a prosté radosti ze života.
+
+Program bude intuitivní a bude se odvíjet od skupiny a od toho, co bude v danou chvíli potřeba. Praktická cvičeníčka budeme střídat se skupinovým sdílením a společnými meditacemi. To vše v příjemném a chráněném prostředí uprostřed krásné přírody.
+
+Janě Tantrický přístup život velmi pozitivně ovlivnil a ráda předá své zkušenosti dále.
+
+Strava bude lehká, domácí a chutná.
+
+V pátek budeme začínat v 18 hodin, ale příjezd je možný i dříve.
+
+Cenu za pobyt brzy doplníme. Přihlášky na neberybka@gmail.com.
+
+## Pránický víkend s Janou Tillovou (24. 5. 2018 - 26. 5. 2018)
+
+Zveme vás na prožitkový víkend, kdy se budeme s Janou Tillovou věnovat sebeobjevovávání, dovolování si, uvolňování se a hraní si. Budeme vědomě zkoumat jak reagujeme na různé životní situace. Všimneme si, jak nás některé podněty vytáčí a jiné nás zase uspokojují a budeme zjišťovat proč to tak je. Budeme rozpouštět zaběhané vzorce chování, vnímat naše těla a nechávat naše emoce volně plynout. A třeba i uvidíme jak málo nám stačí ke stavu spokojenosti a prosté radosti ze života.
+
+Program bude intuitivní a bude se odvíjet od skupiny a od toho, co bude v danou chvíli potřeba. Praktická cvičeníčka budeme střídat se skupinovým sdílením a společnými meditacemi. To vše v příjemném a chráněném prostředí uprostřed krásné přírody.
+
+Janě Tantrický přístup život velmi pozitivně ovlivnil a ráda předá své zkušenosti dále.
+
+Strava bude lehká, domácí a chutná.
+
+V pátek budeme začínat v 18 hodin, ale příjezd je možný i dříve.
+
+Cenu za pobyt brzy doplníme. Přihlášky na neberybka@gmail.com.
+
+## Týdenní dětský pobyt (13. 7. 2018 - 20. 7. 2018)
+
+Akce je určená pro děti od 4 - 14 let. Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
+
+Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
+
+Příjezd v sobotu dopoledne.
+
+Cenu za pobyt brzy doplníme. Zájemci pište na neberybka@gmail.com.
+
+## Týdenní dětský pobyt (10. 8. 2018 - 17. 8. 2018)
+
+Akce je určená pro děti od 4 - 14 let. Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
+
+Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
+
+Příjezd v sobotu dopoledne.
+
+Cenu za pobyt brzy doplníme. Zájemci pište na neberybka@gmail.com.
+
+<!--
 ## Otevírání prostoru (20.3.2018 - 25.3.2018)
 
 Prostor se oficiálně otevírá na jarní rovnodennost - tedy v úterý 20. 3. 2018. Návštěvy vítáme až do neděle 25. 3. 2018. Je možné volně přijíždět i odjíždět v průběhu této doby.
@@ -205,5 +261,3 @@ Více informací o lektorce a její výuce na jejích <a href="https://www.zivot
 Počet účastníků je omezen. Přihlášky pouze emailem na amrita@amrita.cz. Záloha 1200 Kč za osobu.
 
 -->
-
-### Přes zimu 2018/2019 žádné akce naplánované nejsou. Spíme.
