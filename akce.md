@@ -9,24 +9,10 @@ Na rok 2019 jsou ještě volné následující termíny.
 
 Po domluvě se termíny dají upravit (třeba příjezd ve čtvrtek a odjezd v pondělí, případně i celý týden). Jinak na víkend je standartní příjezd po 4 hodině v pátek a odjezd do 4 hodin v neděli.
 
-Cena za ubytování a využívání <a href="/prostor">prostor</a> je 400 korun za osobu a den / noc, tedy 800 korun za víkend za osobu a minimum za víkend za skupinu je 8000 korun (tj. kdyby přijelo méně než 10 lidí). 
+Cena za ubytování a využívání <a href="/prostor">prostor</a> je 400 korun za osobu a den / noc, tedy 800 korun za víkend za osobu a minimum za víkend za skupinu je 8000 korun (tj. kdyby přijelo méně než 10 lidí).
 
 
-## Pránický víkend s Janou Tillovou (26. 4. 2018 - 28. 4. 2018)
-
-Zveme vás na prožitkový víkend, kdy se budeme s Janou Tillovou věnovat sebeobjevovávání, dovolování si, uvolňování se a hraní si. Budeme vědomě zkoumat jak reagujeme na různé životní situace. Všimneme si, jak nás některé podněty vytáčí a jiné nás zase uspokojují a budeme zjišťovat proč to tak je. Budeme rozpouštět zaběhané vzorce chování, vnímat naše těla a nechávat naše emoce volně plynout. A třeba i uvidíme jak málo nám stačí ke stavu spokojenosti a prosté radosti ze života.
-
-Program bude intuitivní a bude se odvíjet od skupiny a od toho, co bude v danou chvíli potřeba. Praktická cvičeníčka budeme střídat se skupinovým sdílením a společnými meditacemi. To vše v příjemném a chráněném prostředí uprostřed krásné přírody.
-
-Janě Tantrický přístup život velmi pozitivně ovlivnil a ráda předá své zkušenosti dále.
-
-Strava bude lehká, domácí a chutná.
-
-V pátek budeme začínat v 18 hodin, ale příjezd je možný i dříve.
-
-Cenu za pobyt brzy doplníme. Přihlášky na neberybka@seznam.cz.
-
-## Pránický víkend s Janou Tillovou (24. 5. 2018 - 26. 5. 2018)
+## Pránický víkend s Janou Tillovou (26. 4. 2019 - 28. 4. 2019)
 
 Zveme vás na prožitkový víkend, kdy se budeme s Janou Tillovou věnovat sebeobjevovávání, dovolování si, uvolňování se a hraní si. Budeme vědomě zkoumat jak reagujeme na různé životní situace. Všimneme si, jak nás některé podněty vytáčí a jiné nás zase uspokojují a budeme zjišťovat proč to tak je. Budeme rozpouštět zaběhané vzorce chování, vnímat naše těla a nechávat naše emoce volně plynout. A třeba i uvidíme jak málo nám stačí ke stavu spokojenosti a prosté radosti ze života.
 
@@ -40,7 +26,21 @@ V pátek budeme začínat v 18 hodin, ale příjezd je možný i dříve.
 
 Cenu za pobyt brzy doplníme. Přihlášky na neberybka@seznam.cz.
 
-## Týdenní dětský pobyt (13. 7. 2018 - 20. 7. 2018)
+## Pránický víkend s Janou Tillovou (24. 5. 2019 - 26. 5. 2019)
+
+Zveme vás na prožitkový víkend, kdy se budeme s Janou Tillovou věnovat sebeobjevovávání, dovolování si, uvolňování se a hraní si. Budeme vědomě zkoumat jak reagujeme na různé životní situace. Všimneme si, jak nás některé podněty vytáčí a jiné nás zase uspokojují a budeme zjišťovat proč to tak je. Budeme rozpouštět zaběhané vzorce chování, vnímat naše těla a nechávat naše emoce volně plynout. A třeba i uvidíme jak málo nám stačí ke stavu spokojenosti a prosté radosti ze života.
+
+Program bude intuitivní a bude se odvíjet od skupiny a od toho, co bude v danou chvíli potřeba. Praktická cvičeníčka budeme střídat se skupinovým sdílením a společnými meditacemi. To vše v příjemném a chráněném prostředí uprostřed krásné přírody.
+
+Janě Tantrický přístup život velmi pozitivně ovlivnil a ráda předá své zkušenosti dále.
+
+Strava bude lehká, domácí a chutná.
+
+V pátek budeme začínat v 18 hodin, ale příjezd je možný i dříve.
+
+Cenu za pobyt brzy doplníme. Přihlášky na neberybka@seznam.cz.
+
+## Týdenní dětský pobyt (13. 7. 2019 - 20. 7. 2019)
 
 Akce je určená pro děti od 4 - 14 let. Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
 
@@ -50,7 +50,7 @@ Příjezd v sobotu dopoledne.
 
 Cenu za pobyt brzy doplníme. Zájemci pište na neberybka@seznam.cz.
 
-## Týdenní dětský pobyt (10. 8. 2018 - 17. 8. 2018)
+## Týdenní dětský pobyt (10. 8. 2019 - 17. 8. 2019)
 
 Akce je určená pro děti od 4 - 14 let. Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
 
