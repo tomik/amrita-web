@@ -9,7 +9,7 @@ Na rok 2019 jsou ještě volné následující termíny.
 
 Po domluvě se termíny dají upravit (třeba příjezd ve čtvrtek a odjezd v pondělí, případně i celý týden). Jinak na víkend je standartní příjezd po 4 hodině v pátek a odjezd do 4 hodin v neděli.
 
-Cena za ubytování a využívání prostor je 400 korun za osobu a den / noc, tedy 800 korun za víkend za osobu a minimum za víkend za skupinu je 8000 korun (tj. kdyby přijelo méně než 10 lidí). Cena zahrnuje ubytování a využívání <a href="/prostor">prostor</a>.
+Cena za ubytování a využívání <a href="/prostor">prostor</a> je 400 korun za osobu a den / noc, tedy 800 korun za víkend za osobu a minimum za víkend za skupinu je 8000 korun (tj. kdyby přijelo méně než 10 lidí). 
 
 
 ## Pránický víkend s Janou Tillovou (26. 4. 2018 - 28. 4. 2018)
