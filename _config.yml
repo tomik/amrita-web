@@ -7,10 +7,10 @@ permalink:        pretty
 plugins:          [jekyll-paginate, redcarpet, pygments.rb]
 
 # Setup
-title:            Amrita
+title:            Neberybka
 tagline:          'V proudu energie života'
 description:      'Prostor sebepoznání a harmonie v Orlických horách.'
-url:              http://www.amrita.cz
+url:              http://www.neberybka.cz
 baseurl:          /
 
 author:

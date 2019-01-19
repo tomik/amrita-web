@@ -4,7 +4,6 @@ title: Kontakt
 ---
 
 <pre>
-Amrita z.s.
 Nebeská Rybná č.p. 28
 517 61
 Rokytnice v Orlických horách
