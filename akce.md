@@ -13,7 +13,7 @@ Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/pro
 
 ## Společné zpívání s Mantrovníky na Velký pátek (19.4.2019)
 
-Na velký pátek k nám opět přijedou na společné zpívání <a href="http://www.gajatri.net">Mantrovníci</a>. Zpívání zahájíme ve 14:00.
+Na velký pátek k nám opět přijedou na společné zpívání <a href="http://www.gajatri.net">Mantrovníci</a>. Zpívání zahájíme v 15:00.
 
 Bude možnost pobýt až do neděle. Doporučujeme vzít si vlastní spacák a ručník. Pro rezervaci pokojíčku na přespání nám <a href="/kontakt">napište</a>. Příspěvek na případné ubytování a využití prostor je pro tuto akci dobrovolný.
 
