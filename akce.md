@@ -5,19 +5,23 @@ title: Akce
 
 V Neberybce se konají jógové víkendy, semináře osobního rozvoje, koncerty a další. Na rok 2019 jsou ještě volné následující termíny:
 
-8-10.3, 22-24.3, 5-7.4, 10-12.5, 7-9.6, 21-23.6, 28-30.6., 2-4.8, 30.8-1.9, 13-15.9, 25-27.10, 1-3.11, 15-17.11, 29.11-1.12
+8-10.3, 22-24.3, 5-7.4, 7-9.6, 21-23.6, 28-30.6., 2-4.8, 30.8-1.9, 13-15.9, 25-27.10, 1-3.11, 15-17.11, 29.11-1.12
 
 Po domluvě se termíny dají upravit (třeba příjezd ve čtvrtek a odjezd v pondělí, případně i celý týden). Jinak na víkend je standartní příjezd po 4 hodině v pátek a odjezd do 4 hodin v neděli.
 
 Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/prostor">prostor</a> je 400 korun za osobu a den / noc, tedy 800 korun za víkend za osobu a minimum za víkend za skupinu je 8000 korun (tj. kdyby přijelo méně než 10 lidí).
 
+Co se stravování týče, tak je ideální, pokud si zajistíte někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi. V případě, že nikoho neseženete, můžeme zajistit lehkou (ale chutnou) stravu za 300 korun na osobu a den.
+
 ## Společné zpívání s Mantrovníky na Velký pátek (19.4.2019)
 
 Na velký pátek k nám opět přijedou na společné zpívání <a href="http://www.gajatri.net">Mantrovníci</a>. Zpívání zahájíme v 15:00.
 
+Pokud budou příhodné podmínky, tak v sobotu bude společné zpívání v kostele v Nebeské Rybné.
+
 Bude možnost pobýt až do neděle. Doporučujeme vzít si vlastní spacák a ručník. Pro rezervaci pokojíčku na přespání nám <a href="/kontakt">napište</a>. Příspěvek na případné ubytování a využití prostor je pro tuto akci dobrovolný.
 
-## Pránický víkend s Janou Tillovou (26. 4. 2019 - 28. 4. 2019)
+## Pránický víkend s Janou Tillovou (26. - 28. 4. 2019)
 
 Zveme vás na prožitkový víkend, kdy se budeme s Janou Tillovou věnovat sebeobjevovávání, dovolování si, uvolňování se a hraní si. Budeme vědomě zkoumat jak reagujeme na různé životní situace. Všimneme si, jak nás některé podněty vytáčí a jiné nás zase uspokojují a budeme zjišťovat proč to tak je. Budeme rozpouštět zaběhané vzorce chování, vnímat naše těla a nechávat naše emoce volně plynout. A třeba i uvidíme jak málo nám stačí ke stavu spokojenosti a prosté radosti ze života.
 
@@ -31,7 +35,17 @@ V pátek budeme začínat v 18 hodin, ale příjezd je možný i dříve.
 
 Cenu za pobyt brzy doplníme. Přihlášky na neberybka@seznam.cz.
 
-## Pránický víkend s Janou Tillovou (24. 5. 2019 - 26. 5. 2019)
+
+## Výroba šamanského bubnu s Radkem Zítkou (10. - 12. 5. 2019)
+
+Loni na podzim měl víkend výroby bubnů s <a href="https://www.etnickenastroje.cz">Radkem Zítkou</a> pozitivní ohlasy a proto pořádáme další víkend i letos. Radek se práci s bubny i dalšími etnickými nástroji věnuje již přes 20 let. O tomto víkendu vás provede výrobou vašeho vlastního šamanského bubnu. Veškerý materiál na výrobu bubnu bude zabezpečen, vyrábět si ho budete sami pod Radkovým dohledem. Součástí víkendu budou i rituály spojené s výrobou bubnu. Budou na výběr velikosti rámů od 37 do 50 cm.
+
+Ceny a další organizační informace brzy doplníme.
+
+Počet účastníků je omezen. Přihlášky emailem přímo Radkovi na info@intuitivnibubnovani.cz.
+
+
+## Pránický víkend s Janou Tillovou (24. - 26. 5. 2019)
 
 Zveme vás na prožitkový víkend, kdy se budeme s Janou Tillovou věnovat sebeobjevovávání, dovolování si, uvolňování se a hraní si. Budeme vědomě zkoumat jak reagujeme na různé životní situace. Všimneme si, jak nás některé podněty vytáčí a jiné nás zase uspokojují a budeme zjišťovat proč to tak je. Budeme rozpouštět zaběhané vzorce chování, vnímat naše těla a nechávat naše emoce volně plynout. A třeba i uvidíme jak málo nám stačí ke stavu spokojenosti a prosté radosti ze života.
 
@@ -45,7 +59,7 @@ V pátek budeme začínat v 18 hodin, ale příjezd je možný i dříve.
 
 Cenu za pobyt brzy doplníme. Přihlášky na neberybka@seznam.cz.
 
-## Týdenní dětský pobyt (13. 7. 2019 - 20. 7. 2019)
+## Týdenní dětský pobyt (13. - 20. 7. 2019)
 
 Akce je určená pro děti od 4 - 14 let. Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
 
@@ -55,7 +69,7 @@ Příjezd v sobotu dopoledne.
 
 Cenu za pobyt brzy doplníme. Zájemci pište na neberybka@seznam.cz.
 
-## Týdenní dětský pobyt (10. 8. 2019 - 17. 8. 2019)
+## Týdenní dětský pobyt (10. - 17. 8. 2019)
 
 Akce je určená pro děti od 4 - 14 let. Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
 
@@ -64,6 +78,13 @@ Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
 Příjezd v sobotu dopoledne.
 
 Cenu za pobyt brzy doplníme. Zájemci pište na neberybka@seznam.cz.
+
+
+## Společné zpívání s Mantrovníky (28.9.2019)
+
+Na svátek Svatého Václava k nám opět přijedou na společné zpívání <a href="http://www.gajatri.net">Mantrovníci</a>. Zpívání zahájíme v sobotu v 15:00.
+
+Bude možnost pobýt až do neděle. Doporučujeme vzít si vlastní spacák a ručník. Pro rezervaci pokojíčku na přespání nám <a href="/kontakt">napište</a>. Příspěvek na případné ubytování a využití prostor je pro tuto akci dobrovolný.
 
 <!--
 ## Otevírání prostoru (20.3.2018 - 25.3.2018)
@@ -239,17 +260,6 @@ V pátek od 14 hodin u nás opět budou hrát a zpívat <a href="http://www.gaja
 Je možné přijet v pátek už dříve a zůstat přes víkend.
 
 
-
-## Výroba šamanského bubnu s Radkem Zítkou (2. 11. 2018 - 4. 11. 2018)
-
-<a href="https://www.etnickenastroje.cz">Radek Zítka</a> se práci s bubny i dalšími etnickými nástroji věnuje již přes 20 let. O tomto víkendu vás provede výrobou vašeho vlastního šamanského bubnu. Veškerý materiál na výrobu bubnu bude zabezpečen, vyrábět si ho budete sami pod Radkovým dohledem. Součástí víkendu budou i rituály spojené s výrobou bubnu. Budou na výběr velikosti rámů od 37 do 50 cm.
-
-Cena za výrobu bubnu je 2500. Cena za ubytování a užívání prostor je dobrovolná. Máte-li zájem, tak jednoduché stravování bude zajištěno (cena podle nákladů).
-
-Počet účastníků je omezen. Přihlášky pouze emailem na amrita@amrita.cz. Záloha 1200 Kč za osobu. Do mailu uveďte i máte-li zájem o stravování.
-
--->
-<!--
 
 ## Harmonizační vikend s jógou s Denisou Krejčířovou (9. 11. 2018 - 11. 11. 2018)
 
