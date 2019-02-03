@@ -5,7 +5,7 @@ title: Akce
 
 V Neberybce se konají jógové víkendy, semináře osobního rozvoje, koncerty a další. Na rok 2019 jsou ještě volné následující termíny:
 
-8-10.3, 22-24.3, 5-7.4, 7-9.6, 21-23.6, 28-30.6., 2-4.8, 30.8-1.9, 13-15.9, 25-27.10, 1-3.11, 15-17.11, 29.11-1.12
+8-10.3, 22-24.3, 5-7.4, 7-9.6, 21-23.6, 28-30.6., 30.8-1.9, 13-15.9, 25-27.10, 1-3.11, 15-17.11, 29.11-1.12
 
 Po domluvě se termíny dají upravit (třeba příjezd ve čtvrtek a odjezd v pondělí, případně i celý týden). Jinak na víkend je standartní příjezd po 4 hodině v pátek a odjezd do 4 hodin v neděli.
 
@@ -68,6 +68,18 @@ Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
 Příjezd v sobotu dopoledne.
 
 Cenu za pobyt brzy doplníme. Zájemci pište na neberybka@seznam.cz.
+
+## Qigongový víkend s Petrou Cempírkovou (27. - 29. 7. 2019)
+
+Informace brzy doplníme.
+
+Více informací o Petře a její výuce je na jejích <a href="https://www.qigong-praha.cz">webových stránkách</a>.
+
+## Jógový víkend s Šárkou Soudkovou (2. - 4. 8. 2019)
+
+Informace brzy doplníme.
+
+Více informací o Šárce a její výuce je na jejích <a href="https://www.yogaharmony.cz">webových stránkách</a>.
 
 ## Týdenní dětský pobyt (10. - 17. 8. 2019)
 
