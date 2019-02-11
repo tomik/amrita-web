@@ -5,13 +5,19 @@ title: Akce
 
 V Neberybce se konají jógové víkendy, semináře osobního rozvoje, koncerty a další. Na rok 2019 jsou ještě volné následující termíny:
 
-8-10.3, 22-24.3, 5-7.4, 7-9.6, 21-23.6, 28-30.6., 30.8-1.9, 13-15.9, 25-27.10, 1-3.11, 15-17.11, 29.11-1.12
+8-10.3, 21-23.6, 28-30.6., 30.8-1.9, 13-15.9, 25-27.10, 1-3.11, 15-17.11, 29.11-1.12
 
 Po domluvě se termíny dají upravit (třeba příjezd ve čtvrtek a odjezd v pondělí, případně i celý týden). Jinak na víkend je standartní příjezd po 4 hodině v pátek a odjezd do 4 hodin v neděli.
 
 Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/prostor">prostor</a> je 400 korun za osobu a den / noc, tedy 800 korun za víkend za osobu a minimum za víkend za skupinu je 8000 korun (tj. kdyby přijelo méně než 10 lidí).
 
 Co se stravování týče, tak je ideální, pokud si zajistíte někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi. V případě, že nikoho neseženete, můžeme zajistit lehkou (ale chutnou) stravu za 300 korun na osobu a den.
+
+## Jógový víkend s Láďou Lebedou (22. - 24. 3. 2019)
+
+<a href="http://jogaladalebeda.cz">Láďa Lebeda</a> u nás pořádá víkend cvičení jógových asán, meditace, filosofie jógy, společného makrobioticky inspirovaného vaření a procházek po okolí.
+
+Skupina je uzavřená - jde o lidi se kterými Láďa pravidelně jezdí cvičit jógu do Chorvatska. Pokud si přesto myslíte, že víkend by pro vás byl přínosný, tak Láďu kontaktujte na e-mailu ladalebeda@seznam.cz nebo telefonicky na 723 309 342.
 
 ## Společné zpívání s Mantrovníky na Velký pátek (19.4.2019)
 
@@ -44,7 +50,6 @@ Ceny a další organizační informace brzy doplníme.
 
 Počet účastníků je omezen. Přihlášky emailem přímo Radkovi na info@intuitivnibubnovani.cz.
 
-
 ## Pránický víkend s Janou Tillovou (24. - 26. 5. 2019)
 
 Zveme vás na prožitkový víkend, kdy se budeme s Janou Tillovou věnovat sebeobjevovávání, dovolování si, uvolňování se a hraní si. Budeme vědomě zkoumat jak reagujeme na různé životní situace. Všimneme si, jak nás některé podněty vytáčí a jiné nás zase uspokojují a budeme zjišťovat proč to tak je. Budeme rozpouštět zaběhané vzorce chování, vnímat naše těla a nechávat naše emoce volně plynout. A třeba i uvidíme jak málo nám stačí ke stavu spokojenosti a prosté radosti ze života.
@@ -58,6 +63,17 @@ Strava bude lehká, domácí a chutná.
 V pátek budeme začínat v 18 hodin, ale příjezd je možný i dříve.
 
 Cenu za pobyt brzy doplníme. Přihlášky na neberybka@seznam.cz.
+
+## Jógový víkend s Láďou Lebedou (7. - 9. 6. 2019)
+
+Zveme vás na víkendovou akci, kterou u nás pořádá <a href="http://jogaladalebeda.cz">Láďa Lebeda</a>. Láďa vás provede víkendem plným cvičení jógových asán, meditace, seznámením s filosofií jógy, společného makrobioticky inspirovaného vaření a procházek po okolí.
+
+Začátek je v pátek 7. 6. 2019 v 18:00. Konec v neděli 9. 6. 2019 v 17:00.
+
+Cenu brzy upřesníme.
+
+Přihlášky přímo u Láďy na e-mailu ladalebeda@seznam.cz nebo telefonicky na 723 309 342.
+
 
 ## Týdenní dětský pobyt (13. - 20. 7. 2019)
 

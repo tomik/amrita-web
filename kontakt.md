@@ -15,7 +15,7 @@ var hostname = "seznam.cz";
 var full_email = username + "@" + hostname ;
 document.write(full_email);
 </script>
-<strong>Na email reagujeme v řádu dní. Na "bláboly" nereagujeme vůbec.</strong>
+<strong>Na email reagujeme v řádu dní.</strong>
 
 telefon: 724 848 661
 <strong>Telefonujte jen v urgentní situaci - např. bloudíte-li při příjezdu. </strong>
