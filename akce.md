@@ -39,7 +39,7 @@ Strava bude lehká, domácí a chutná.
 
 V pátek budeme začínat v 18 hodin, ale příjezd je možný i dříve.
 
-Cenu za pobyt brzy doplníme. Přihlášky na neberybka@seznam.cz.
+Příspěvek na setkání je dobrovolný. Doporučený příspěvek je 2400 korun. Přihlášky na neberybka@seznam.cz.
 
 
 ## Výroba šamanského bubnu s Radkem Zítkou (10. - 12. 5. 2019)
