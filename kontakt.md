@@ -17,8 +17,8 @@ document.write(full_email);
 </script>
 <strong>Na email reagujeme v řádu dní.</strong>
 
-telefon: 724 848 661
-<strong>Telefonujte jen v urgentní situaci - např. bloudíte-li při příjezdu. </strong>
+telefon: Tomáš 724 848 661
+<strong>Telefonujte prosím jen v urgentní situaci, preferujeme komunikaci po emailu. </strong>
 </pre>
 
 <!--
