@@ -5,7 +5,7 @@ title: Akce
 
 V Neberybce se konají jógové víkendy, semináře osobního rozvoje, koncerty a další. Na rok 2019 jsou ještě volné následující termíny:
 
-8-10.3, 21-23.6, 28-30.6., 30.8-1.9, 13-15.9, 25-27.10, 1-3.11, 15-17.11, 29.11-1.12
+8-10.3, 22.-24.3, 21-23.6, 28-30.6., 30.8-1.9, 13-15.9, 1-3.11, 15-17.11, 29.11-1.12
 
 Po domluvě se termíny dají upravit (třeba příjezd ve čtvrtek a odjezd v pondělí, případně i celý týden). Jinak na víkend je standartní příjezd po 4 hodině v pátek a odjezd do 4 hodin v neděli.
 
@@ -13,11 +13,12 @@ Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/pro
 
 Co se stravování týče, tak je ideální, pokud si zajistíte někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi. V případě, že nikoho neseženete, můžeme zajistit lehkou (ale chutnou) stravu za 300 korun na osobu a den.
 
-## Jógový víkend s Láďou Lebedou (22. - 24. 3. 2019)
+<!--## Jógový víkend s Láďou Lebedou (22. - 24. 3. 2019)
 
 <a href="http://jogaladalebeda.cz">Láďa Lebeda</a> u nás pořádá víkend cvičení jógových asán, meditace, filosofie jógy, společného makrobioticky inspirovaného vaření a procházek po okolí.
 
 Skupina je uzavřená - jde o lidi se kterými Láďa pravidelně jezdí cvičit jógu do Chorvatska. Pokud si přesto myslíte, že víkend by pro vás byl přínosný, tak Láďu kontaktujte na e-mailu ladalebeda@seznam.cz nebo telefonicky na 723 309 342.
+-->
 
 ## Společné zpívání s Mantrovníky na Velký pátek (19.4.2019)
 
@@ -83,7 +84,7 @@ Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
 
 Příjezd v sobotu dopoledne.
 
-Cenu za pobyt brzy doplníme. Zájemci pište na neberybka@seznam.cz.
+Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 2500 korun. Zájemci pište na neberybka@seznam.cz.
 
 ## Qigongový víkend s Petrou Cempírkovou (27. - 29. 7. 2019)
 
@@ -105,7 +106,7 @@ Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
 
 Příjezd v sobotu dopoledne.
 
-Cenu za pobyt brzy doplníme. Zájemci pište na neberybka@seznam.cz.
+Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 2500 korun. Zájemci pište na neberybka@seznam.cz.
 
 
 ## Společné zpívání s Mantrovníky (28.9.2019)
@@ -113,6 +114,10 @@ Cenu za pobyt brzy doplníme. Zájemci pište na neberybka@seznam.cz.
 Na svátek Svatého Václava k nám opět přijedou na společné zpívání <a href="http://www.gajatri.net">Mantrovníci</a>. Zpívání zahájíme v sobotu v 15:00.
 
 Bude možnost pobýt až do neděle. Doporučujeme vzít si vlastní spacák a ručník. Pro rezervaci pokojíčku na přespání nám <a href="/kontakt">napište</a>. Příspěvek na případné ubytování a využití prostor je pro tuto akci dobrovolný.
+
+## Víkend s Prana Vashya Jógou (25. - 28. 10. 2019)
+
+<a href="http://www.pranayoga.cz">Petr Smil</a> se józe, pranajámě a meditaci věnuje již přes patnáct let. Dnes jsou všechny tyto názvy v kurzu, ale jen málo lidí jde pod povrch, kde se teprve začínají dít věci. Z mého pohledu je Petr jedním z takových lidí a svoje dlouholeté zkušenosti rád předává dál. Detaily akce budou brzy upřesněny.
 
 <!--
 ## Otevírání prostoru (20.3.2018 - 25.3.2018)
