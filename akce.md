@@ -94,9 +94,9 @@ Více informací o Petře a její výuce je na jejích <a href="https://www.qigo
 
 ## Jógový víkend s Šárkou Soudkovou (2. - 4. 8. 2019)
 
-Informace brzy doplníme.
+Srdečně vás zveme na víkendové jógově-meditační spočinutí se <a href="https://www.yogaharmony.org">Šárkou Soudkovou</a>. Můžete se těšit na jemnou avšak do hloubky jdoucí jógovou a meditační praxi, pro zájemce též nahlédnutí pod pokličku aromaterapie. Bude čas na odpočinek i výletování po okolí, setkání s podobně naladěnými lidmi i prostor na to být jen sám/sama se sebou v místní krásné přírodě.
 
-Více informací o Šárce a její výuce je na jejích <a href="https://www.yogaharmony.cz">webových stránkách</a>.
+Celková cena za víkend je 2600 korun. Lehká vegetariánská strava bude zajištěna. Přihlášky, více informací a platbu zálohy přímo u Šárky, emailový kontakt je sarkayoga@gmail.com.
 
 ## Týdenní dětský pobyt (10. - 17. 8. 2019)
 
