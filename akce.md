@@ -13,12 +13,13 @@ Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/pro
 
 Co se stravování týče, tak je ideální, pokud si zajistíte někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi. V případě, že nikoho neseženete, můžeme zajistit lehkou (ale chutnou) stravu za 300 korun na osobu a den.
 
-<!--## Jógový víkend s Láďou Lebedou (22. - 24. 3. 2019)
+## ZdravoVíkend s Josefem Laštovičkou (5. - 7. 4. 2019)
 
-<a href="http://jogaladalebeda.cz">Láďa Lebeda</a> u nás pořádá víkend cvičení jógových asán, meditace, filosofie jógy, společného makrobioticky inspirovaného vaření a procházek po okolí.
+Tento víkend zaměříme na podporu našeho zdraví. Na programu je jóga, procházky, žádný stres, povídání o výživě a jejich možnostech (od redukce nadváhy po možnosti prevence mnohých současných nemocí). Budeme vařit veganskou (rostlinnou) výživu – příležitost si ji vyzkoušet, pokud jste to dosud neudělali. Naučíme se relaxační a dechové techniky a večer nastavíme klidnou atmosféru s meditací a koncertem tibetských mís.
 
-Skupina je uzavřená - jde o lidi se kterými Láďa pravidelně jezdí cvičit jógu do Chorvatska. Pokud si přesto myslíte, že víkend by pro vás byl přínosný, tak Láďu kontaktujte na e-mailu ladalebeda@seznam.cz nebo telefonicky na 723 309 342.
--->
+Cena pobytu: 2999 Kč. Zahrnuje výživu, ubytování, program.
+
+Více informací a přihlášky na <a href="http://zacitzivot.cz/zdravovikend-v-orlicich/"> webových stránkách akce</a>.
 
 ## Společné zpívání s Mantrovníky na Velký pátek (19.4.2019)
 
