@@ -3,13 +3,15 @@ layout: default
 title: O nás
 ---
 
-<!--
-<p class="message">
-  Přátelé, <br/> <br/>
 
-  je tady léto a my máme plné ruce práce na pozemku okolo chalupy. Upravujeme terén, stavíme záhonky, zídky, chodníčky, chystáme se na jezírko, no zkrátka v plánu je toho ještě mnoho. Pokud máte chuť podílet se na tvorbě něčeho hezkého, tak velmi oceníme vaši pomoc. Práce by byla zaplacena, ubytování a stravování zajištěno.
+<p class="message">
+  Vážení Přátelé, <br/> <br/>
+
+  mám prosbu. Práce mi přerůstá přes hlavu a nestíhám. Potřebovala bych pomoci s různými pracemi v domě, okolo domu, se srovnáním dokladů, atd. Pokud máte někdo čas, chuť a náladu, budu moc ráda za každou pomoc.
+  <br/>
+  <br/>
+  Jana
 </p>
--->
 
 Žijeme a tvoříme v Nebeské Rybné v Orlických horách, jsou nám blízká následující témata:
 
