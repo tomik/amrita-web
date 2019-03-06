@@ -5,7 +5,7 @@ title: Akce
 
 V Neberybce se konají jógové víkendy, semináře osobního rozvoje, koncerty a další. Na rok 2019 jsou ještě volné následující termíny:
 
-8-10.3, 22.-24.3, 21-23.6, 28-30.6., 30.8-1.9, 13-15.9, 1-3.11, 15-17.11, 29.11-1.12
+8-10.3, 22.-24.3, 21-23.6, 28-30.6., 13-15.9, 1-3.11, 15-17.11, 29.11-1.12
 
 Po domluvě se termíny dají upravit (třeba příjezd ve čtvrtek a odjezd v pondělí, případně i celý týden). Jinak na víkend je standartní příjezd po 4 hodině v pátek a odjezd do 4 hodin v neděli.
 
@@ -109,6 +109,9 @@ Příjezd v sobotu dopoledne.
 
 Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 2500 korun. Zájemci pište na neberybka@seznam.cz.
 
+## Víkend s Nicol Borůvkovou (30. 8. - 1. 9. 2019)
+
+Zveme Vás na meditačně jógový víkend pro ženy, který u nás bude pořádat <a href="https://www.facebook.com/nicoyogatherapy.cz/">Nicol Borůvková</a>. Zájemci o více informací a přihlášky pište na nicoyoga@seznam.cz.
 
 ## Společné zpívání s Mantrovníky (28.9.2019)
 
