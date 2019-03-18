@@ -13,6 +13,7 @@ Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/pro
 
 Co se stravování týče, tak je ideální, pokud si zajistíte někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi. V případě, že nikoho neseženete, můžeme zajistit lehkou (ale chutnou) stravu za 300 korun na osobu a den.
 
+<!--
 ## ZdravoVíkend s Josefem Laštovičkou (5. - 7. 4. 2019)
 
 Tento víkend zaměříme na podporu našeho zdraví. Na programu je jóga, procházky, žádný stres, povídání o výživě a jejich možnostech (od redukce nadváhy po možnosti prevence mnohých současných nemocí). Budeme vařit veganskou (rostlinnou) výživu – příležitost si ji vyzkoušet, pokud jste to dosud neudělali. Naučíme se relaxační a dechové techniky a večer nastavíme klidnou atmosféru s meditací a koncertem tibetských mís.
@@ -20,6 +21,15 @@ Tento víkend zaměříme na podporu našeho zdraví. Na programu je jóga, proc
 Cena pobytu: 2999 Kč. Zahrnuje výživu, ubytování, program.
 
 Více informací a přihlášky na <a href="http://zacitzivot.cz/zdravovikend-v-orlicich/"> webových stránkách akce</a>.
+-->
+
+## Jarní brigáda (5. - 7. 4. 2019)
+
+Pokud máte chuť si protáhnout tělo a přitom nám pomoci s pracemi okolo domu, tak budete vítání na víkendu věnovanému jarní brigádě. Budeme řezat dřevo na další zimu, uklízet kolem domu, rýt zahrádku, zkrátka co bude potřeba.
+
+Ubytování i strava budou zajištěny.
+
+Máte-li zájem přijet nám pomoci, dejte nám vědět na náš email <a href="/kontakt"> kontakt </a>.
 
 ## Společné zpívání s Mantrovníky na Velký pátek (19.4.2019)
 
