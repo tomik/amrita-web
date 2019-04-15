@@ -21,7 +21,6 @@ Tento víkend zaměříme na podporu našeho zdraví. Na programu je jóga, proc
 Cena pobytu: 2999 Kč. Zahrnuje výživu, ubytování, program.
 
 Více informací a přihlášky na <a href="http://zacitzivot.cz/zdravovikend-v-orlicich/"> webových stránkách akce</a>.
--->
 
 ## Jarní brigáda (5. - 7. 4. 2019)
 
@@ -31,13 +30,24 @@ Ubytování i strava budou zajištěny.
 
 Máte-li zájem přijet nám pomoci, tak <a href="/kontakt">nám dejte vědět</a>.
 
+-->
+
 ## Společné zpívání s Mantrovníky na Velký pátek (19.4.2019)
 
 Na velký pátek k nám opět přijedou na společné zpívání <a href="http://www.gajatri.net">Mantrovníci</a>. Zpívání zahájíme v 15:00.
 
-Pokud budou příhodné podmínky, tak v sobotu bude společné zpívání v kostele v Nebeské Rybné.
+Bude možnost pobýt až do neděle. Příspěvek na případné ubytování a využití prostor je pro tuto akci dobrovolný.
 
-Bude možnost pobýt až do neděle. Doporučujeme vzít si vlastní spacák a ručník. Pro rezervaci pokojíčku na přespání nám <a href="/kontakt">napište</a>. Příspěvek na případné ubytování a využití prostor je pro tuto akci dobrovolný.
+ Vypadá to, že na akci přijede opravdu hodně lidí a je i velký zájem o přespání, proto prosím vezměte v úvahu následující:
+
+  1) Kapacita ubytování v pokojících je již plná, spát se dá buďto v meditační místnosti (vlastní karimatka a spacák), anebo je možnost si zamluvit pokoj v některém z okolních penzionů, např. penzion Orlicko v Nebeské Rybné.
+
+  2) Pokud budete přespávat, tak si s sebou vezměte spacák, karimatku a ručník.
+
+  3) Parkování prosím na louce nad chalupou (u domu je jen omezený počet míst). Louka není naše a měli jsme v minulosti incidenty s panem majitelem, tak se prosím snažme nezabírat zbytečně velký kus. Pokud má někdo hodně věcí (např. hudební nástroje =)) tak je samozřejmě možno je zavést k domu, vyložit a pak zaparkovat nahoře.
+
+  4) Pokud bude někdo přespávat / zůstávat na víkend, tak ať si přiveze s sebou jídlo. My navaříme asi jako minule hrnec polévky a napečeme chleba, možná i nějaký koláč, ale nepočítáme s tím, že se bude vařit ve velkém. Kuchyňku je samozřejmě možno používat.
+
 
 ## Pránický víkend s Janou Tillovou (26. - 28. 4. 2019)
 
