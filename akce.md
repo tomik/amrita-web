@@ -30,7 +30,7 @@ Ubytování i strava budou zajištěny.
 
 Máte-li zájem přijet nám pomoci, tak <a href="/kontakt">nám dejte vědět</a>.
 
--->
+
 
 ## Společné zpívání s Mantrovníky na Velký pátek (19.4.2019)
 
@@ -48,6 +48,7 @@ Bude možnost pobýt až do neděle. Příspěvek na případné ubytování a v
 
   4) Pokud bude někdo přespávat / zůstávat na víkend, tak ať si přiveze s sebou jídlo. My navaříme asi jako minule hrnec polévky a napečeme chleba, možná i nějaký koláč, ale nepočítáme s tím, že se bude vařit ve velkém. Kuchyňku je samozřejmě možno používat.
 
+-->
 
 ## Pránický víkend s Janou Tillovou (26. - 28. 4. 2019)
 

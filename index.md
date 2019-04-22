@@ -3,6 +3,7 @@ layout: default
 title: O nás
 ---
 
+<!--
 <p class="message">
   Vážení, <br/> <br/>
 
@@ -19,6 +20,9 @@ title: O nás
   <br/>
   <br/>
   </p>
+
+
+  -->
 
 
 Žijeme a tvoříme v Nebeské Rybné v Orlických horách, jsou nám blízká následující témata:
