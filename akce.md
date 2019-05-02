@@ -48,7 +48,6 @@ Bude možnost pobýt až do neděle. Příspěvek na případné ubytování a v
 
   4) Pokud bude někdo přespávat / zůstávat na víkend, tak ať si přiveze s sebou jídlo. My navaříme asi jako minule hrnec polévky a napečeme chleba, možná i nějaký koláč, ale nepočítáme s tím, že se bude vařit ve velkém. Kuchyňku je samozřejmě možno používat.
 
--->
 
 ## Pránický víkend s Janou Tillovou (26. - 28. 4. 2019)
 
@@ -64,6 +63,7 @@ V pátek budeme začínat v 18 hodin, ale příjezd je možný i dříve.
 
 Příspěvek na setkání je dobrovolný. Doporučený příspěvek je 2400 korun. Pro přihlášky a další informace nás <a href="/kontakt">kontaktujte</a>.
 
+-->
 
 ## Výroba šamanského bubnu s Radkem Zítkou (10. - 12. 5. 2019)
 
