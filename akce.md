@@ -9,9 +9,9 @@ V Neberybce se konají jógové víkendy, semináře osobního rozvoje, koncerty
 
 Po domluvě se termíny dají upravit (třeba příjezd ve čtvrtek a odjezd v pondělí, případně i celý týden). Jinak na víkend je standartní příjezd po 4 hodině v pátek a odjezd do 4 hodin v neděli.
 
-Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/prostor">prostor</a> je 400 korun za osobu a den / noc, tedy 800 korun za víkend za osobu a minimum za víkend za skupinu je 8000 korun (tj. kdyby přijelo méně než 10 lidí). Zrušení zamluveného víkendu je za poplatek 2500 korun.
+Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/prostor">prostor</a> je 400 korun za osobu a den / noc, tedy 800 korun za víkend za osobu a minimum za víkend za skupinu je 4800 korun (tj. kdyby přijelo méně než 6 lidí). Zrušení zamluveného víkendu je za poplatek 2400 korun.
 
-Co se stravování týče, tak je ideální, pokud si zajistíte někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi. V případě, že nikoho neseženete, můžeme zajistit lehkou (ale chutnou) stravu za 300 korun na osobu a den.
+Co se stravování týče, tak je ideální, pokud si zajistíte někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi. V případě, že nikoho neseženete, můžeme zajistit lehkou (ale chutnou) stravu za 300 korun na osobu a den (polévka, domácí chléb, salát, lehké jídlo, atd.).
 
 <!--
 ## ZdravoVíkend s Josefem Laštovičkou (5. - 7. 4. 2019)
@@ -63,7 +63,6 @@ V pátek budeme začínat v 18 hodin, ale příjezd je možný i dříve.
 
 Příspěvek na setkání je dobrovolný. Doporučený příspěvek je 2400 korun. Pro přihlášky a další informace nás <a href="/kontakt">kontaktujte</a>.
 
--->
 
 ## Výroba šamanského bubnu s Radkem Zítkou (10. - 12. 5. 2019)
 
@@ -86,6 +85,8 @@ Strava bude lehká, domácí a chutná.
 V pátek budeme začínat v 18 hodin, ale příjezd je možný i dříve.
 
 Příspěvek na setkání je dobrovolný. Doporučený příspěvek je 2400 korun. Pro přihlášky a další informace nás <a href="/kontakt">kontaktujte</a>.
+
+-->
 
 ## Jógový víkend s Láďou Lebedou (7. - 9. 6. 2019)
 
