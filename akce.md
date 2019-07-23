@@ -109,9 +109,10 @@ Příjezd v sobotu dopoledne.
 
 Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 2500 korun. Pro přihlášky a další informace nás <a href="/kontakt">kontaktujte</a>.
 
-## Qigongový víkend s Petrou Cempírkovou (26. - 28. 7. 2019)
+<!--## Qigongový víkend s Petrou Cempírkovou (26. - 28. 7. 2019)
 
 Skupina je uzavřená - účastníce jsou od Petry z pravidelných cvičení. Více informací na <a href="https://www.qigong-praha.cz">jejím webu</a>.
+-->
 
 ## Jógový víkend s Šárkou Soudkovou (2. - 4. 8. 2019)
 
