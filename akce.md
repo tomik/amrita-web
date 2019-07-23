@@ -5,7 +5,7 @@ title: Akce
 
 V Neberybce se konají jógové víkendy, semináře osobního rozvoje, koncerty a další. Na rok 2019 jsou ještě volné následující termíny:
 
-21-23.6, 28-30.6., 13-15.9, 1-3.11, 15-17.11, 29.11-1.12
+13-15.9, 1-3.11, 15-17.11, 29.11-1.12
 
 Po domluvě se termíny dají upravit (třeba příjezd ve čtvrtek a odjezd v pondělí, případně i celý týden). Jinak na víkend je standartní příjezd po 4 hodině v pátek a odjezd do 4 hodin v neděli.
 
@@ -88,7 +88,7 @@ Příspěvek na setkání je dobrovolný. Doporučený příspěvek je 2400 koru
 
 -->
 
-
+<!--
 ## Jógový víkend s Láďou Lebedou (7. - 9. 6. 2019)
 
 Zveme vás na víkendovou akci, kterou u nás pořádá <a href="http://jogaladalebeda.cz">Láďa Lebeda</a>. Láďa vás provede víkendem plným cvičení jógových asán, meditace, seznámením s filosofií jógy, společného makrobioticky inspirovaného vaření a procházek po okolí.
@@ -98,6 +98,8 @@ Začátek je v pátek 7. 6. 2019 v 18:00. Konec v neděli 9. 6. 2019 v 17:00.
 Cenu brzy upřesníme.
 
 Přihlášky přímo u Láďy na e-mailu ladalebeda@seznam.cz nebo telefonicky na 723 309 342.
+-->
+<!--
 
 ## Týdenní dětský pobyt (13. - 20. 7. 2019)
 
@@ -109,7 +111,7 @@ Příjezd v sobotu dopoledne.
 
 Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 2500 korun. Pro přihlášky a další informace nás <a href="/kontakt">kontaktujte</a>.
 
-<!--## Qigongový víkend s Petrou Cempírkovou (26. - 28. 7. 2019)
+## Qigongový víkend s Petrou Cempírkovou (26. - 28. 7. 2019)
 
 Skupina je uzavřená - účastníce jsou od Petry z pravidelných cvičení. Více informací na <a href="https://www.qigong-praha.cz">jejím webu</a>.
 -->
