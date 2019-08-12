@@ -11,7 +11,7 @@ Po domluvě se termíny dají upravit (třeba příjezd ve čtvrtek a odjezd v p
 
 Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/prostor">prostor</a> je 400 korun za osobu a den / noc, tedy 800 korun za víkend za osobu a minimum za víkend za skupinu je 5000 korun (tj. kdyby přijelo 6 a méně lidí). Zrušení zamluveného víkendu je za poplatek 2500 korun.
 
-Co se stravování týče, tak je ideální, pokud si zajistíte někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi. V případě, že nikoho neseženete, můžeme zajistit lehkou (ale chutnou) stravu za 300 korun na osobu a den (polévka, domácí chléb, salát, lehké jídlo, atd.).
+Co se stravování týče, tak je ideální, pokud si zajistíte někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi. V případě, že nikoho neseženete, můžeme zajistit vegetariánskou stravu za 400 korun na osobu a den (polévka, domácí chléb, salát, zapečené těstoviny, atd.).
 
 <!--
 ## ZdravoVíkend s Josefem Laštovičkou (5. - 7. 4. 2019)
@@ -114,13 +114,14 @@ Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 2
 ## Qigongový víkend s Petrou Cempírkovou (26. - 28. 7. 2019)
 
 Skupina je uzavřená - účastníce jsou od Petry z pravidelných cvičení. Více informací na <a href="https://www.qigong-praha.cz">jejím webu</a>.
--->
+
 
 ## Jógový víkend s Šárkou Soudkovou (2. - 4. 8. 2019)
 
 Srdečně vás zveme na víkendové jógově-meditační spočinutí se <a href="https://www.yogaharmony.org">Šárkou Soudkovou</a>. Můžete se těšit na jemnou avšak do hloubky jdoucí jógovou a meditační praxi, pro zájemce též nahlédnutí pod pokličku aromaterapie. Bude čas na odpočinek i výletování po okolí, setkání s podobně naladěnými lidmi i prostor na to být jen sám/sama se sebou v místní krásné přírodě.
 
 Celková cena za víkend je 2600 korun. Lehká vegetariánská strava bude zajištěna. Přihlášky, více informací a platbu zálohy přímo u Šárky, emailový kontakt je sarkayoga@gmail.com.
+-->
 
 ## Týdenní dětský pobyt (10. - 17. 8. 2019)
 
