@@ -121,7 +121,7 @@ Skupina je uzavřená - účastníce jsou od Petry z pravidelných cvičení. V�
 Srdečně vás zveme na víkendové jógově-meditační spočinutí se <a href="https://www.yogaharmony.org">Šárkou Soudkovou</a>. Můžete se těšit na jemnou avšak do hloubky jdoucí jógovou a meditační praxi, pro zájemce též nahlédnutí pod pokličku aromaterapie. Bude čas na odpočinek i výletování po okolí, setkání s podobně naladěnými lidmi i prostor na to být jen sám/sama se sebou v místní krásné přírodě.
 
 Celková cena za víkend je 2600 korun. Lehká vegetariánská strava bude zajištěna. Přihlášky, více informací a platbu zálohy přímo u Šárky, emailový kontakt je sarkayoga@gmail.com.
--->
+
 
 ## Týdenní dětský pobyt (10. - 17. 8. 2019)
 
@@ -136,6 +136,7 @@ Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 2
 ## Víkend s Nicol Borůvkovou (30. 8. - 1. 9. 2019)
 
 Zveme Vás na meditačně jógový víkend pro ženy, který u nás bude pořádat <a href="https://www.facebook.com/nicoyogatherapy.cz/">Nicol Borůvková</a>. Zájemci o více informací a přihlášky pište na nicoyoga@seznam.cz.
+-->
 
 ## Společné zpívání s Mantrovníky (28.9.2019)
 
