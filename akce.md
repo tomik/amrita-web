@@ -5,13 +5,16 @@ title: Akce
 
 V Neberybce se konají jógové víkendy, semináře osobního rozvoje, koncerty a další. Na rok 2019 jsou ještě volné následující termíny:
 
-13-15.9, 1-3.11, 15-17.11, 29.11-1.12
+ 15-17.11, 29.11-1.12
 
 Po domluvě se termíny dají upravit (třeba příjezd ve čtvrtek a odjezd v pondělí, případně i celý týden). Jinak na víkend je standartní příjezd po 4 hodině v pátek a odjezd do 4 hodin v neděli.
 
 Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/prostor">prostor</a> je 400 korun za osobu a den / noc, tedy 800 korun za víkend za osobu a minimum za víkend za skupinu je 5000 korun (tj. kdyby přijelo 6 a méně lidí). Zrušení zamluveného víkendu je za poplatek 2500 korun.
 
-Co se stravování týče, tak je ideální, pokud si zajistíte někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi. V případě, že nikoho neseženete, můžeme zajistit vegetariánskou stravu za 400 korun na osobu a den (polévka, domácí chléb, salát, zapečené těstoviny, atd.).
+Co se stravování týče, tak je třeba si zajistit někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi k dispozici. 
+
+
+<!--V případě, že nikoho neseženete, můžeme zajistit vegetariánskou stravu za 400 korun na osobu a den (polévka, domácí chléb, salát, zapečené těstoviny, atd.).-->
 
 <!--
 ## ZdravoVíkend s Josefem Laštovičkou (5. - 7. 4. 2019)
