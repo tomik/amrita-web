@@ -3,9 +3,12 @@ layout: page
 title: Akce
 ---
 
-V Neberybce se konají jógové víkendy, semináře osobního rozvoje, koncerty a další. Na rok 2019 jsou ještě volné následující termíny:
+V Neberybce se konají jógové víkendy, semináře osobního rozvoje, koncerty a další.
+
+<!--Na rok 2019 jsou ještě volné následující termíny:
 
  15-17.11, 29.11-1.12
+ -->
 
 Po domluvě se termíny dají upravit (třeba příjezd ve čtvrtek a odjezd v pondělí, případně i celý týden). Jinak na víkend je standartní příjezd po 4 hodině v pátek a odjezd do 4 hodin v neděli.
 
@@ -147,9 +150,15 @@ Na svátek Svatého Václava k nám opět přijedou na společné zpívání <a 
 
 Bude možnost pobýt až do neděle. Doporučujeme vzít si vlastní spacák a ručník. Pro rezervaci pokojíčku na přespání nám <a href="/kontakt">napište</a>. Příspěvek na případné ubytování a využití prostor je pro tuto akci dobrovolný.
 
+
+<!--
 ## Víkend s Prana Vashya Jógou (25. - 28. 10. 2019)
 
-<a href="http://www.pranayoga.cz">Petr Smil</a> se józe, pranajámě a meditaci věnuje již přes patnáct let. Dnes jsou všechny tyto názvy v kurzu, ale jen málo lidí jde pod povrch, kde se teprve začínají dít věci. Z mého pohledu je Petr jedním z takových lidí a svoje dlouholeté zkušenosti rád předává dál. Detaily akce budou brzy upřesněny.
+<a href="http://www.pranayoga.cz">Petr Smil</a> se józe, pranajámě a meditaci věnuje již přes patnáct let. Dnes jsou všechny tyto názvy v kurzu, ale jen málo lidí jde pod povrch, kde se teprve začínají dít věci. Z mého pohledu je Petr jedním z takových lidí a svoje dlouholeté zkušenosti rád předává dál. Detaily akce budou brzy upřesněny.-->
+
+## Víkend s Annou Vašinovou (29. 11. - 1. 12. 2019)
+
+Více informací na <a href="http://zesrdcedosrdce.cz">Aničky webových stránkách</a>.
 
 <!--
 ## Otevírání prostoru (20.3.2018 - 25.3.2018)
