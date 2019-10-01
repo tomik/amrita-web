@@ -5,14 +5,9 @@ title: Akce
 
 V Neberybce se konají jógové víkendy, semináře osobního rozvoje, koncerty a další.
 
-<!--Na rok 2019 jsou ještě volné následující termíny:
+Po domluvě se termíny dají upravit (třeba příjezd ve čtvrtek a odjezd v pondělí, případně i celý týden). Jinak na víkend je standartní příjezd po 4 hodině v pátek a odjezd do 3 hodin v neděli.
 
- 15-17.11, 29.11-1.12
- -->
-
-Po domluvě se termíny dají upravit (třeba příjezd ve čtvrtek a odjezd v pondělí, případně i celý týden). Jinak na víkend je standartní příjezd po 4 hodině v pátek a odjezd do 4 hodin v neděli.
-
-Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/prostor">prostor</a> je 400 korun za osobu a den / noc, tedy 800 korun za víkend za osobu. Minimum za víkend za skupinu je 5000 korun (tj. kdyby přijelo 6 a méně lidí) a nevratná rezervační záloha je taktéž 5000 korun.
+Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/prostor">prostor</a> je 400 korun za osobu a den / noc, tedy 800 korun za víkend za osobu. Minimum za víkend za skupinu je 5000 korun (tj. kdyby přijelo 6 a méně lidí) a nevratná rezervační záloha je taktéž 5000 korun na víkend a 7500 korun na vícedenní akce.
 
 Co se stravování týče, tak je třeba si zajistit někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi k dispozici.
 
@@ -142,7 +137,7 @@ Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 2
 ## Víkend s Nicol Borůvkovou (30. 8. - 1. 9. 2019)
 
 Zveme Vás na meditačně jógový víkend pro ženy, který u nás bude pořádat <a href="https://www.facebook.com/nicoyogatherapy.cz/">Nicol Borůvková</a>. Zájemci o více informací a přihlášky pište na nicoyoga@seznam.cz.
--->
+
 
 ## Společné zpívání s Mantrovníky (28.9.2019)
 
@@ -150,7 +145,7 @@ Na svátek Svatého Václava k nám opět přijedou na společné zpívání <a 
 
 Bude možnost pobýt až do neděle. Doporučujeme vzít si vlastní spacák a ručník. Pro rezervaci pokojíčku na přespání nám <a href="/kontakt">napište</a>. Příspěvek na případné ubytování a využití prostor je pro tuto akci dobrovolný.
 
-
+-->
 <!--
 ## Víkend s Prana Vashya Jógou (25. - 28. 10. 2019)
 
