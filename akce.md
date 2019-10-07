@@ -7,7 +7,7 @@ V Neberybce se konají jógové víkendy, semináře osobního rozvoje, koncerty
 
 Po domluvě se termíny dají upravit (třeba příjezd ve čtvrtek a odjezd v pondělí, případně i celý týden). Jinak na víkend je standartní příjezd po 4 hodině v pátek a odjezd do 3 hodin v neděli.
 
-Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/prostor">prostor</a> je 400 korun za osobu a den / noc, tedy 800 korun za víkend za osobu. Minimum za víkend za skupinu je 5000 korun (tj. kdyby přijelo 6 a méně lidí) a nevratná rezervační záloha je taktéž 5000 korun na víkend a 7500 korun na vícedenní akce.
+Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/prostor">prostor</a> je 400 korun za osobu a den / noc, tedy 800 korun za víkend za osobu. Nevratná rezervační záloha je 5000 korun na víkend a 7500 korun na vícedenní akce.
 
 Co se stravování týče, tak je třeba si zajistit někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi k dispozici.
 
