@@ -155,6 +155,10 @@ Bude možnost pobýt až do neděle. Doporučujeme vzít si vlastní spacák a r
 
 Více informací na <a href="http://zesrdcedosrdce.cz">Aničky webových stránkách</a>.
 
+## Pobyt s Thajskou Masáží, Markem a Lucií (26. 5. 2020 - 31. 5. 2020)
+
+Více informací na <a href="https://www.facebook.com/events/381739069382986/">FB stránkách akce</a>.
+
 <!--
 ## Otevírání prostoru (20.3.2018 - 25.3.2018)
 
