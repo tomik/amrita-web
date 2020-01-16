@@ -12,6 +12,21 @@ Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/pro
 Co se stravování týče, tak je třeba si zajistit někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi k dispozici.
 
 
+## Víkend s Annou Vašinovou (31. 1. - 2. 2. 2020)
+
+Zveme vás na <a href="http://zesrdcedosrdce.cz/sebepohlazeni/"> víkendovou akci</a>, kterou u nás pořádá Anna Vašinová. Akce bude zaměřena na znovuobjevení vlastní hodnoty, na programu budou meditace, pránajáma, povídání, jóga, procházky po okolí, atd. Více informací, na webových stránkách akce.
+
+## Jógový víkend s Láďou Lebedou (28. 2. - 1. 3. 2020)
+
+Zveme vás na <a href="http://jogaladalebeda.cz/?p=384">víkendovou akci</a>, kterou u nás pořádá Láďa Lebeda. Láďa vás provede víkendem plným cvičení jógových asán, meditace, seznámením s filosofií jógy, společného makrobioticky inspirovaného vaření a procházek po okolí. Více informací, na webových stránkách akce.
+
+Přihlášky přímo u Láďy na e-mailu ladalebeda@seznam.cz nebo telefonicky na 723 309 342.
+
+## Pobyt s Thajskou Masáží, Markem a Lucií (26. 5. 2020 - 31. 5. 2020)
+
+Více informací na <a href="https://www.facebook.com/events/381739069382986/">FB stránkách akce</a>.
+
+
 <!--V případě, že nikoho neseženete, můžeme zajistit vegetariánskou stravu za 400 korun na osobu a den (polévka, domácí chléb, salát, zapečené těstoviny, atd.).-->
 
 <!--
@@ -73,21 +88,7 @@ Ceny a další organizační informace brzy doplníme.
 
 Počet účastníků je omezen. Přihlášky emailem přímo Radkovi na info@intuitivnibubnovani.cz.
 
-## Pránický víkend s Janou Tillovou (24. - 26. 5. 2019)
-
-Zveme vás na prožitkový víkend, kdy se budeme s Janou Tillovou věnovat sebeobjevovávání, dovolování si, uvolňování se a hraní si. Budeme vědomě zkoumat jak reagujeme na různé životní situace. Všimneme si, jak nás některé podněty vytáčí a jiné nás zase uspokojují a budeme zjišťovat proč to tak je. Budeme rozpouštět zaběhané vzorce chování, vnímat naše těla a nechávat naše emoce volně plynout. A třeba i uvidíme jak málo nám stačí ke stavu spokojenosti a prosté radosti ze života.
-
-Program bude intuitivní a bude se odvíjet od skupiny a od toho, co bude v danou chvíli potřeba. Praktická cvičeníčka budeme střídat se skupinovým sdílením a společnými meditacemi. To vše v příjemném a chráněném prostředí uprostřed krásné přírody.
-
-Janě Tantrický přístup život velmi pozitivně ovlivnil a ráda předá své zkušenosti dále.
-
-Strava bude lehká, domácí a chutná.
-
-V pátek budeme začínat v 18 hodin, ale příjezd je možný i dříve.
-
-Příspěvek na setkání je dobrovolný. Doporučený příspěvek je 2400 korun. Pro přihlášky a další informace nás <a href="/kontakt">kontaktujte</a>.
-
--->
+## Pránický víkend s Janou Tillovou (24. - 26. 5. 2019
 
 <!--
 ## Jógový víkend s Láďou Lebedou (7. - 9. 6. 2019)
@@ -150,14 +151,6 @@ Bude možnost pobýt až do neděle. Doporučujeme vzít si vlastní spacák a r
 ## Víkend s Prana Vashya Jógou (25. - 28. 10. 2019)
 
 <a href="http://www.pranayoga.cz">Petr Smil</a> se józe, pranajámě a meditaci věnuje již přes patnáct let. Dnes jsou všechny tyto názvy v kurzu, ale jen málo lidí jde pod povrch, kde se teprve začínají dít věci. Z mého pohledu je Petr jedním z takových lidí a svoje dlouholeté zkušenosti rád předává dál. Detaily akce budou brzy upřesněny.-->
-
-## Víkend s Annou Vašinovou (29. 11. - 1. 12. 2019)
-
-Více informací na <a href="http://zesrdcedosrdce.cz">Aničky webových stránkách</a>.
-
-## Pobyt s Thajskou Masáží, Markem a Lucií (26. 5. 2020 - 31. 5. 2020)
-
-Více informací na <a href="https://www.facebook.com/events/381739069382986/">FB stránkách akce</a>.
 
 <!--
 ## Otevírání prostoru (20.3.2018 - 25.3.2018)
