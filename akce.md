@@ -33,7 +33,7 @@ Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
 
 Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 3000 korun. Pro přihlášky a další informace nás <a href="/kontakt">kontaktujte</a>.
 
-## Týdenní dětský pobyt (8. - 15. 7. 2020)
+## Týdenní dětský pobyt (8. - 15. 8. 2020)
 
 Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
 
