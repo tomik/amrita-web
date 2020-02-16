@@ -11,20 +11,37 @@ Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/pro
 
 Co se stravování týče, tak je třeba si zajistit někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi k dispozici.
 
-
-## Víkend s Annou Vašinovou (31. 1. - 2. 2. 2020)
-
-Zveme vás na <a href="http://zesrdcedosrdce.cz/sebepohlazeni/"> víkendovou akci</a>, kterou u nás pořádá Anna Vašinová. Akce bude zaměřena na znovuobjevení vlastní hodnoty, na programu budou meditace, pránajáma, povídání, jóga, procházky po okolí, atd. Více informací, na webových stránkách akce.
-
 ## Jógový víkend s Láďou Lebedou (28. 2. - 1. 3. 2020)
 
 Zveme vás na <a href="http://jogaladalebeda.cz/?p=384">víkendovou akci</a>, kterou u nás pořádá Láďa Lebeda. Láďa vás provede víkendem plným cvičení jógových asán, meditace, seznámením s filosofií jógy, společného makrobioticky inspirovaného vaření a procházek po okolí. Více informací, na webových stránkách akce.
 
 Přihlášky přímo u Láďy na e-mailu ladalebeda@seznam.cz nebo telefonicky na 723 309 342.
 
+## Víkend s Annou Vašinovou (13. - 15. 3. 2020)
+
+Zveme vás na <a href="http://zesrdcedosrdce.cz/sebepohlazeni/"> víkendovou akci</a>, kterou u nás pořádá Anna Vašinová. Akce bude zaměřena na Návrat  k sobě, na programu budou meditace, pránajáma, povídání, jóga, procházky po okolí, atd. Více informací, na webových stránkách akce.
+
 ## Pobyt s Thajskou Masáží, Markem a Lucií (26. 5. 2020 - 31. 5. 2020)
 
 Více informací na <a href="https://www.facebook.com/events/381739069382986/">FB stránkách akce</a>.
+
+## Týdenní dětský pobyt (11. - 18. 7. 2020)
+
+Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
+
+Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
+
+Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 3000 korun. Pro přihlášky a další informace nás <a href="/kontakt">kontaktujte</a>.
+
+## Týdenní dětský pobyt (8. - 15. 7. 2020)
+
+Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
+
+Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
+
+Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 3000 korun. Pro přihlášky a další informace nás <a href="/kontakt">kontaktujte</a>.
+
+
 
 
 <!--V případě, že nikoho neseženete, můžeme zajistit vegetariánskou stravu za 400 korun na osobu a den (polévka, domácí chléb, salát, zapečené těstoviny, atd.).-->
