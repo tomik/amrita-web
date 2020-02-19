@@ -17,8 +17,8 @@ document.write(full_email);
 </script>
 <strong>Na email reagujeme v řádu dní.</strong>
 
-telefon: Tomáš 724 848 661
-<strong>Telefonujte prosím jen v urgentní situaci, preferujeme komunikaci po emailu. </strong>
+telefon: Andrea 777 580 393
+<strong>Preferujeme komunikaci po emailu. Pokud se nedovoláte, tak prosím pošlete zprávu oč jde. </strong>
 </pre>
 
 <!--
