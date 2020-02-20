@@ -21,6 +21,51 @@ Přihlášky přímo u Láďy na e-mailu ladalebeda@seznam.cz nebo telefonicky n
 
 Zveme vás na <a href="http://zesrdcedosrdce.cz/sebepohlazeni/"> víkendovou akci</a>, kterou u nás pořádá Anna Vašinová. Akce bude zaměřena na Návrat  k sobě, na programu budou meditace, pránajáma, povídání, jóga, procházky po okolí, atd. Více informací, na webových stránkách akce.
 
+## Pojďme objevovat skryté síly v sobě (20. - 22. 3. 2020)
+
+Zveme vás na víkendový pobyt v Orlických horách.
+
+Víkendem vás provedou pránici Jana a Pavel.
+Jana je 8 let pránik a Pavel 1 rok.
+
+S čím se seznámíte?
+
+- NÁDÍ - ČAKRY A PRÁCE S ENERGIÍ (PRÁNOU)
+
+  - Nádí - nosiče a zprostředkovatele energie
+  - Čakry - energetická centra v těle
+  - Prána - vědomá energie
+
+- Pránájáma - vědomé usměrňování dechu
+
+- ÁSANY - pozice, prospěšné všemu a všem.
+
+  - Ásany přinášejí pocit celkové tělesné pohody, protože uvádějí do rovnováhy tělo, mysl i duši. Tyto cviky může pro jejich jednoduchost provádět každý, bez ohledu na věk a tělesnou kondici.
+
+- Meditace - "rozjímání" cesta kultivace mysli (její zklidnění)
+
+
+Součástí pobytu je i povídání o tématech, která vás budou zajímat, společné sdílení prožitků a pobyt v přírodě.
+
+Účast na všech aktivitách je dobrovolná.
+
+Předpoklad ke šťastnému bytí má každý člověk sám v sobě. A tomu, kdo vážně a opravdově hledá, je cesta otevřená.
+
+Pojďte s námi objevovat skryté síly v sobě.
+
+Ubytování je na samotě v překrásné chalupě v Nebeské Rybné.
+
+Strava na pobytu je vegetariánská.
+
+Cena za pobyt a stravu je 2000 Kč.
+Příspěvek pro průvodce je dobrovolný.
+
+Kapacita pobytu max. 20 osob.
+
+V případě zájmu nebo dotazů se prosím ozvěte na e-mail neberybka@seznam.cz.
+
+Těšíme se na vás. 😊
+
 ## Pobyt s Thajskou Masáží, Markem a Lucií (26. 5. 2020 - 31. 5. 2020)
 
 Více informací na <a href="https://www.facebook.com/events/381739069382986/">FB stránkách akce</a>.
