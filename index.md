@@ -25,6 +25,9 @@ title: O nás
   -->
 
 
+<img src="/public/images/neberybka_web_cover.jpg" alt="Neberybka"/>
+
+
 Žijeme a tvoříme v Nebeské Rybné v Orlických horách, jsou nám blízká následující témata:
 
 * přítomnost - přesunout se z hlavy do Tady a teď
