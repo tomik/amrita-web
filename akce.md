@@ -11,6 +11,7 @@ Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/pro
 
 Co se stravování týče, tak je třeba si zajistit někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi k dispozici.
 
+<!--
 ## Jógový víkend s Láďou Lebedou (28. 2. - 1. 3. 2020)
 
 Zveme vás na <a href="http://jogaladalebeda.cz/?p=384">víkendovou akci</a>, kterou u nás pořádá Láďa Lebeda. Láďa vás provede víkendem plným cvičení jógových asán, meditace, seznámením s filosofií jógy, společného makrobioticky inspirovaného vaření a procházek po okolí. Více informací, na webových stránkách akce.
@@ -65,6 +66,8 @@ Kapacita pobytu max. 20 osob.
 V případě zájmu nebo dotazů se prosím ozvěte na e-mail neberybka@seznam.cz.
 
 Těšíme se na vás. 😊
+
+-->
 
 ## Pobyt s Thajskou Masáží, Markem a Lucií (26. 5. 2020 - 31. 5. 2020)
 
