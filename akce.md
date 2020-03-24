@@ -67,11 +67,12 @@ V případě zájmu nebo dotazů se prosím ozvěte na e-mail neberybka@seznam.c
 
 Těšíme se na vás. 😊
 
--->
 
 ## Pobyt s Thajskou Masáží, Markem a Lucií (26. 5. 2020 - 31. 5. 2020)
 
 Více informací na <a href="https://www.facebook.com/events/381739069382986/">FB stránkách akce</a>.
+
+-->
 
 ## Týdenní dětský pobyt (11. - 18. 7. 2020)
 
