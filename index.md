@@ -3,6 +3,7 @@ layout: default
 title: O nás
 ---
 
+<!--
 <p class="message">
 
 <strong>
@@ -13,6 +14,7 @@ vzhledem k současné situaci jsou až do odvolání zrušeny všechny naplánov
   <br/>
   <br/>
   </p>
+  -->
 
 
 <img src="/public/images/neberybka_web_cover.jpg" alt="Neberybka"/>
