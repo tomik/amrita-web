@@ -74,6 +74,13 @@ Více informací na <a href="https://www.facebook.com/events/381739069382986/">F
 
 -->
 
+
+## Víkend s Annou Vašinovou (5. - 7. 6. 2020)
+
+Zveme vás na <a href="http://zesrdcedosrdce.cz"> víkendovou akci</a>, kterou u nás pořádá Anna Vašinová. Akce bude zaměřena na Návrat  k sobě, na programu budou meditace, pránajáma, povídání, jóga, procházky po okolí, atd. Více informací, na webových stránkách Aničky.
+
+
+
 ## Týdenní dětský pobyt (11. - 18. 7. 2020)
 
 Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
@@ -90,8 +97,13 @@ Strava bude zajištěna. Vařit budeme společně v letní kuchyni.
 
 Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 3000 korun. Pro přihlášky a další informace nám napište email na neberybka@seznam.cz .
 
+## Dámský kemp s Luci Bečkovou (20. - 23. 8. 2020)
 
+Víkend plný otužování, meditací, tance a kakaa.
 
+## Dámský kemp s Luci Bečkovou (26. - 29. 11. 2020)
+
+Víkend plný otužování, meditací, tance a kakaa.
 
 <!--V případě, že nikoho neseženete, můžeme zajistit vegetariánskou stravu za 400 korun na osobu a den (polévka, domácí chléb, salát, zapečené těstoviny, atd.).-->
 
