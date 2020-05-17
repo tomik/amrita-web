@@ -80,6 +80,9 @@ Více informací na <a href="https://www.facebook.com/events/381739069382986/">F
 Zveme vás na <a href="http://zesrdcedosrdce.cz"> víkendovou akci</a>, kterou u nás pořádá Anna Vašinová. Akce bude zaměřena na Návrat  k sobě, na programu budou meditace, pránajáma, povídání, jóga, procházky po okolí, atd. Více informací, na webových stránkách Aničky.
 
 
+## Meditační víkend s Andreou Jiskrovou (12. - 14. 6. 2020)
+
+Více informací již brzy.
 
 ## Týdenní dětský pobyt (11. - 18. 7. 2020)
 
