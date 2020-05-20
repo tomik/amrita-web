@@ -38,7 +38,30 @@ Zveme vás na <a href="http://zesrdcedosrdce.cz"> víkendovou akci</a>, kterou u
 
 ## Ženský víkend s Andreou Jiskrovou a Martinou Merisi (12. - 14. 6. 2020)
 
-Více informací již brzy.
+Zveme tě na ženský víkend, kde vytvoříme bezpečný prostor a umožníme ti, abys v sobě mohla naplno probudit svoji bohyni a být zase sama sebou.
+
+Na co se můžeš těšit?
+
+- odhalíš svoji vnitřní sílu a zapomenuté schopnosti
+- vytvoříš si láskyplný vztah ke svému tělu i sobě samé
+- odreaguješ se od každodenních povinností
+- načerpáš novou energii
+- zbavíš se omezujících schémat / vzorců
+- pronikneš do tajů efektivní vztahové komunikace
+- provedeme tě skvělými technikami: relaxační, meditační, otužovací, dýchací, terapeutické, zábavné
+- zažiješ sílu přítomného okamžiku
+
+𝐉𝐚𝐤𝐨 𝐛𝐨𝐧𝐮𝐬 poznáš úžasné ženy, které tě podpoří! Tahle jedinečná atmosféra léčí vztahy mezi ženami, které se v dnešním světě vnímají jako rivalky. Budeš moci otevřít a pročistit to, o čem se ti jinde nechce mluvit.
+
+Těš se také na odpočinek, sdílení, smích, pohyb, přírodu i vášeň. Vše si užijeme v harmonickém prostředí Orlických hor.
+
+Pojeď si s námi užít tenhle báječný víkend!  💚
+
+Praktické info:
+- 🥗 vegetariánská kuchyně (případně dle domluvy)
+- 🏠 ubytování: chalupa Neberybka
+- 👩 kapacita: 12 žen
+- 📧 máš zájem? napiš nám mail na martina.merisi@email.cz nebo ajka.jiskrova@gmail.com a pošleme ti podrobnější informace
 
 ## Pojďme objevovat skryté síly v sobě (3. - 5. 7. 2020)
 
