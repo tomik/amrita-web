@@ -22,7 +22,25 @@ Přihlášky přímo u Láďy na e-mailu ladalebeda@seznam.cz nebo telefonicky n
 
 Zveme vás na <a href="http://zesrdcedosrdce.cz/sebepohlazeni/"> víkendovou akci</a>, kterou u nás pořádá Anna Vašinová. Akce bude zaměřena na Návrat  k sobě, na programu budou meditace, pránajáma, povídání, jóga, procházky po okolí, atd. Více informací, na webových stránkách akce.
 
-## Pojďme objevovat skryté síly v sobě (20. - 22. 3. 2020)
+
+
+## Pobyt s Thajskou Masáží, Markem a Lucií (26. 5. 2020 - 31. 5. 2020)
+
+Více informací na <a href="https://www.facebook.com/events/381739069382986/">FB stránkách akce</a>.
+
+-->
+
+
+## Víkend s Annou Vašinovou (5. - 7. 6. 2020)
+
+Zveme vás na <a href="http://zesrdcedosrdce.cz"> víkendovou akci</a>, kterou u nás pořádá Anna Vašinová. Akce bude zaměřena na Návrat  k sobě, na programu budou meditace, pránajáma, povídání, jóga, procházky po okolí, atd. Více informací, na webových stránkách Aničky.
+
+
+## Ženský víkend s Andreou Jiskrovou a Martinou Merisi (12. - 14. 6. 2020)
+
+Více informací již brzy.
+
+## Pojďme objevovat skryté síly v sobě (3. - 5. 7. 2020)
 
 Zveme vás na víkendový pobyt v Orlických horách.
 
@@ -45,7 +63,6 @@ S čím se seznámíte?
 
 - Meditace - "rozjímání" cesta kultivace mysli (její zklidnění)
 
-
 Součástí pobytu je i povídání o tématech, která vás budou zajímat, společné sdílení prožitků a pobyt v přírodě.
 
 Účast na všech aktivitách je dobrovolná.
@@ -66,23 +83,6 @@ Kapacita pobytu max. 20 osob.
 V případě zájmu nebo dotazů se prosím ozvěte na e-mail neberybka@seznam.cz.
 
 Těšíme se na vás. 😊
-
-
-## Pobyt s Thajskou Masáží, Markem a Lucií (26. 5. 2020 - 31. 5. 2020)
-
-Více informací na <a href="https://www.facebook.com/events/381739069382986/">FB stránkách akce</a>.
-
--->
-
-
-## Víkend s Annou Vašinovou (5. - 7. 6. 2020)
-
-Zveme vás na <a href="http://zesrdcedosrdce.cz"> víkendovou akci</a>, kterou u nás pořádá Anna Vašinová. Akce bude zaměřena na Návrat  k sobě, na programu budou meditace, pránajáma, povídání, jóga, procházky po okolí, atd. Více informací, na webových stránkách Aničky.
-
-
-## Meditační víkend s Andreou Jiskrovou (12. - 14. 6. 2020)
-
-Více informací již brzy.
 
 ## Týdenní dětský pobyt (11. - 18. 7. 2020)
 
