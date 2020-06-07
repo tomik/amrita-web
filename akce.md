@@ -28,12 +28,13 @@ Zveme vás na <a href="http://zesrdcedosrdce.cz/sebepohlazeni/"> víkendovou akc
 
 Více informací na <a href="https://www.facebook.com/events/381739069382986/">FB stránkách akce</a>.
 
--->
 
 
 ## Víkend s Annou Vašinovou (5. - 7. 6. 2020)
 
 Zveme vás na <a href="http://zesrdcedosrdce.cz"> víkendovou akci</a>, kterou u nás pořádá Anna Vašinová. Akce bude zaměřena na Návrat  k sobě, na programu budou meditace, pránajáma, povídání, jóga, procházky po okolí, atd. Více informací, na webových stránkách Aničky.
+
+-->
 
 
 ## Ženský víkend s Andreou Jiskrovou a Martinou Merisi (12. - 14. 6. 2020)
@@ -62,6 +63,12 @@ Praktické info:
 - 🏠 ubytování: chalupa Neberybka
 - 👩 kapacita: 12 žen
 - 📧 máš zájem? napiš nám mail na martina.merisi@email.cz nebo ajka.jiskrova@gmail.com a pošleme ti podrobnější informace
+
+## Jógový víkend s Láďou Lebedou (19. 6. - 21. 6. 2020)
+
+Zveme vás na <a href="http://jogaladalebeda.cz/?p=384">víkendovou akci</a>, kterou u nás pořádá Láďa Lebeda. Láďa vás provede víkendem plným cvičení jógových asán, meditace, seznámením s filosofií jógy, společného makrobioticky inspirovaného vaření a procházek po okolí. Více informací, na webových stránkách akce.
+
+Přihlášky přímo u Láďy na e-mailu ladalebeda@seznam.cz nebo telefonicky na 723 309 342.
 
 ## Pojďme objevovat skryté síly v sobě (3. - 5. 7. 2020)
 
@@ -125,11 +132,11 @@ Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 3
 
 ## Dámský kemp s Luci Bečkovou (20. - 23. 8. 2020)
 
-Víkend plný otužování, meditací, tance a kakaa.
+Kemp pro dámy: budeme se otužovat, meditovat, jíst, relaxovat, bavit se, tančit, zpívat, zpomalíme a naladíme se na svoje jádro a hlavně: nebudeme dělat nic, co nechceme. Součástí budou různé dechové a meditační techniky, terapie chladem, povídání o biohackingu, spánku a samozřejmě dámských tématech. Tento kemp má i bonusový materiál a to sice KAKAO ceremonii za doprovodu křišťálových mís.
 
 ## Dámský kemp s Luci Bečkovou (26. - 29. 11. 2020)
 
-Víkend plný otužování, meditací, tance a kakaa.
+Kemp pro dámy: budeme se otužovat, meditovat, jíst, relaxovat, bavit se, tančit, zpívat, zpomalíme a naladíme se na svoje jádro a hlavně: nebudeme dělat nic, co nechceme. Součástí budou různé dechové a meditační techniky, terapie chladem, povídání o biohackingu, spánku a samozřejmě dámských tématech. Tento kemp má i bonusový materiál a to sice KAKAO ceremonii za doprovodu křišťálových mís.    
 
 <!--V případě, že nikoho neseženete, můžeme zajistit vegetariánskou stravu za 400 korun na osobu a den (polévka, domácí chléb, salát, zapečené těstoviny, atd.).-->
 
