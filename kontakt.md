@@ -19,7 +19,7 @@ document.write(full_email);
 telefon:  777 580 393
 <strong>Preferujeme komunikaci po emailu. Pokud se nedovoláte, tak prosím pošlete zprávu oč jde. </strong>
 
-Bankovní spojení: 2000291476/2010
+Bankovní spojení: 2301668695/2010
 </pre>
 
 <!--
