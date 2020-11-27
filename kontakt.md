@@ -8,7 +8,6 @@ Nebeská Rybná č.p. 28
 517 61
 Rokytnice v Orlických horách
 
-
 e-mail: <script language="JavaScript">
 var username = "neberybka";
 var hostname = "seznam.cz";
@@ -17,8 +16,10 @@ document.write(full_email);
 </script>
 <strong>Na email reagujeme v řádu dní.</strong>
 
-telefon: Andrea 777 580 393
+telefon:  777 580 393
 <strong>Preferujeme komunikaci po emailu. Pokud se nedovoláte, tak prosím pošlete zprávu oč jde. </strong>
+
+Bankovní spojení: 2000291476/2010
 </pre>
 
 <!--
@@ -41,10 +42,5 @@ Hromadnou dopravou se k nám dostává hůře. Vlaková spojení jsou do Rychnov
 Jsme nezisková organizace a většina našich příjmů pochází z dobrovolných darů našich příznivců. Pokud Vás oslovilo to, co děláme a můžete si to dovolit, budeme rádi, pokud nám na naše aktivity přispějete.
 </p>
 
-<p>
-<pre>
-Bankovní spojení: 2000291476/2010
-</pre>
-</p>
 
 -->
