@@ -3,18 +3,17 @@ layout: default
 title: O nás
 ---
 
-<!--
+
 <p class="message">
 
 <strong>
   Vážení přátelé, <br/> <br/>
-vzhledem k současné situaci jsou až do odvolání zrušeny všechny naplánované akce a také není možno u nás pobývat. Přejeme Vám ať toto nelehké období zvládnete co nejlépe.
-
+nově jsme otevřeli pobyty pro děti na on-line výuce. Více informací je v sekci <a href="/akce">Akce</a>. 
 </strong>
   <br/>
   <br/>
   </p>
-  -->
+
 
 
 <img src="/public/images/neberybka_web_cover.jpg" alt="Neberybka"/>

@@ -11,6 +11,23 @@ Pokud není uvedeno jinak, tak cena za ubytování a využívání <a href="/pro
 
 Co se stravování týče, tak je třeba si zajistit někoho, kdo bude vařit. Je tu plně vybavená kuchyň se základními ingrediencemi k dispozici.
 
+## Pobyty pro děti na on-line výuce
+
+Nově otevíráme pobyty pro děti, které jsou na on-line výuce. Strava, ubytování, internet zajištěn a k tomu svobodný pohyb v přírodě, společná tvorba,
+sběr bylinek, procházky po okolí a co zrovna přijde do cesty a k chuti.
+A to v následujících termínech (vše 2021):
+
+- 18.4. - 29.4.
+- 2.5. - 6.5.
+- 9.5. - 13.5.
+- 16.5. - 17.6.
+- 20.6. - 2.7.
+
+Termíny jsou orientační, délka pobytu od tří do pěti dnů.
+Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 500 korun na den.
+Pro přihlášky a další informace nám napište email na neberybka@seznam.cz.
+
+
 ## Týdenní dětský pobyt (3. - 10. 7. 2021)
 
 Program závisí od toho, co budou chtít děti dělat, možnosti jsou výlety po okolí, společné tvoření, táboráky, hra na hudební nástroje, noční koukání na hvězdy, koupání v řece, sběr hub a lesních plodů, atd.
