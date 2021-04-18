@@ -17,16 +17,15 @@ Nově otevíráme pobyty pro děti, které jsou na on-line výuce. Strava, ubyto
 sběr bylinek, procházky po okolí a co zrovna přijde do cesty a k chuti.
 A to v následujících termínech (vše 2021):
 
-- 18.4. - 29.4.
-- 2.5. - 6.5.
-- 9.5. - 13.5.
-- 16.5. - 17.6.
-- 20.6. - 2.7.
+- 18.4. - 28.4.
+- 2.5. - 5.5.
+- 9.5. - 12.5.
+- 16.5. - 16.6.
+- 20.6. - 25.6.
 
-Termíny jsou orientační, délka pobytu od tří do pěti dnů.
+Termíny jsou orientační, délka pobytu je na vás a vašich možnostech.
 Příspěvek na pobyt je dobrovolný. Doporučený minimální příspěvek je 500 korun na den.
 Pro přihlášky a další informace nám napište email na neberybka@seznam.cz.
-
 
 ## Týdenní dětský pobyt (3. - 10. 7. 2021)
 
